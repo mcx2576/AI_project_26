@@ -24,6 +24,8 @@ Time Series Gene Expression Prediction using Neural Networks with Hidden Layers
 
 (https://www.ncbi.nlm.nih.gov/pubmed/22088843)
 
+(http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0012776)
+
 Optional:
 Large bibliography of related articles
 (https://web.archive.org/web/20051026200308/http://www.molgen.mpg.de/~markowet/docs/network-bib.pdf)
