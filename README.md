@@ -18,7 +18,15 @@ Fundamental relationship between operon organization and gene expression
 Time Series Gene Expression Prediction using Neural Networks with Hidden Layers
 (http://axon.cs.byu.edu/papers/smith_2010biot.pdf)
 
+(https://www.researchgate.net/publication/225261212_Gene_Network_Holography_of_the_Soil_Bacterium_Bacillus_subtilis)
+
+(https://onlinelibrary.wiley.com/doi/pdf/10.15252/msb.20156236)
+
+(https://www.ncbi.nlm.nih.gov/pubmed/22088843)
+
+(http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0012776)
 
 Optional:
 Large bibliography of related articles
 (https://web.archive.org/web/20051026200308/http://www.molgen.mpg.de/~markowet/docs/network-bib.pdf)
+
