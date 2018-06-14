@@ -1,0 +1,1771 @@
+1. Maturation of polycistronic mRNA by RNase Y and its associated Y-complex in Gram-positive bacteria
+(Submitter supplied) Endonucleolytic cleavage within polycistronic mRNAs can lead to differential stability and discordant abundance among co-transcribed genes. RNase Y, the major endonuclease for mRNA decay in Bacillus subtilis, was originally identified for its cleavage activity towards the cggR-gapA operon, an event that differentiates the expression of a glycolytic enzyme from its transcriptional regulator. A three-protein Y-complex (YlbF, YmcA, and YaaT) was recently identified that is also required for this cleavage in vivo, raising the possibility that it is an accessory factor acting to regulate RNase Y. more...
+Organism:	Staphylococcus aureus; Bacillus subtilis
+Type:		Other
+Platforms: GPL17452 GPL18561 16 Samples
+FTP download: GEO (WIG) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE108nnn/GSE108295/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA423050
+Series		Accession: GSE108295	ID: 200108295
+
+2. Evolutionary Convergence of Pathway-specific Enzyme Expression Stoichiometry
+(Submitter supplied) Coexpression of proteins in response to pathway-inducing signals is the founding paradigm of gene regulation. Yet, it remains unexplored whether the relative abundance of coregulated proteins requires precise tuning. Here we present large-scale analyses of protein stoichiometry and corresponding regulatory strategies for 21 pathways and 67-224 operons in divergent bacteria separated by 0.6-2 billion years. more...
+Organism:	Vibrio natriegens NBRC 15636 = ATCC 14048 = DSM 759; Bacillus subtilis subsp. subtilis str. 168; Escherichia coli str. K-12 substr. MG1655; Caulobacter vibrioides
+Type:		Other
+7 related Platforms 21 Samples
+FTP download: GEO (WIG) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE95nnn/GSE95211/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA376419
+Series		Accession: GSE95211	ID: 200095211
+
+3. The cold shock response of Bacillus subtilis analyzed by RNA-sequencing: YplP regulates pyruvate transport at low temperatures
+(Submitter supplied) The cold shock response of B. subtilis was defined after 0.5 hr and 2 hr cold shock using RNA sequencing. We identified novel RNAs (including non-coding RNAs) that play a role during growth at low temperatures. Deletion of the cold induced protein YplP results in a cold sensitive phenotype, and a comparative RNA sequencing analysis suggests that YplP induces pftAB expression after prolonged incubation at low temperatures, thereby optimizing pyruvate transport under cold shock conditions.
+Organism:	Bacillus subtilis
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL23851 9 Samples
+FTP download: GEO (RPKM, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE111nnn/GSE111577/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA437458
+Series		Accession: GSE111577	ID: 200111577
+
+4. Analysis of differential gene expression during Bacillus subtilis spore outgrowth
+(Submitter supplied) The transcriptome of 8 strains were studied during 7 stages of the Morphological phases of sporulation P0 = Resuspention of cells in sporulation medium; P1 = Onset of sporulation before asymmetric division; P2 = Visible asymmetric septum; P3 = Ongoing engulfment of the forespore compartment by the mother cell compartment of sporulating cells; P4 = Completed engulfment (engulfed phase-dark forespores are surrounded by the mother-cell cytoplasm); P5 = Maturation (ongoing dehydration of the forespore core seen as a transition of phase-dark forespores into phase-bright foresppores); P6 = Phase-bright forespores (sporulation almost completed, mother-cells contain phase-bright dehydrated forespores).
+Organism:	Bacillus amyloliquefaciens; Bacillus subtilis
+Type:		Expression profiling by high throughput sequencing
+Platforms: GPL23851 GPL24453 112 Samples
+FTP download: GEO (GFF, RPKM) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE108nnn/GSE108659/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA428231
+Series		Accession: GSE108659	ID: 200108659
+
+5. Genome-wide identification of natural RNA aptamers in prokaryotes and eukaryotes
+(Submitter supplied) RNAs are well-suited to act as cellular sensors that detect and respond to metabolite changes in the environment due to their ability to fold into complex structures. Here, we introduce a genome-wide strategy called PARCEL that experimentally identifies RNA aptamers in vitro, in a high-throughput manner. By applying PARCEL to a collection of prokaryotic and eukaryotic organisms, we have revealed 58 new RNA aptamers to three key metabolites, greatly expanding the list of natural RNA aptamers. more...
+Organism:	Pseudomonas aeruginosa; Bacillus subtilis; Candida albicans
+Type:		Expression profiling by high throughput sequencing
+Platforms: GPL21297 GPL22403 GPL24109 18 Samples
+FTP download: GEO (BEDGRAPH) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE106nnn/GSE106133/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA415714
+Series		Accession: GSE106133	ID: 200106133
+
+6. Expression profiles of Bacillus subtilis strains deleted for or ectopically expressing dnaA, sda, and spo0A during exponential growth and after treatment with HPUra.
+(Submitter supplied) The objective of the study was to determine the role of dnaA in regulating gene expression, and the extent to which the effects are mediated by sda and spo0A.
+Organism:	Escherichia coli; Bacillus subtilis subsp. subtilis str. 168; Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL10707 58 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE84nnn/GSE84421/
+Series		Accession: GSE84421	ID: 200084421
+
+7. Caenorhabditis elegans infected with Enterococcus
+(Submitter supplied) Young adult N2 Caenorhabditis elegans were infected with Enterococcus faecalis or Enterococcus faecium for 8 h to determine the transcriptional host response to each enterococcal species. Analysis of differential gene expression in C. elegans young adults exposed to four different bacteria: heat-killed Escherichia coli strain OP50 (control), wild-type E. faecalis MMH594, wild-type E. faecium E007, or Bacillus subtilis PY79 (sigF::kan). more...
+Organism:	Caenorhabditis elegans
+Type:		Expression profiling by array
+Platform: GPL200 13 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE95nnn/GSE95636/
+Series		Accession: GSE95636	ID: 200095636
+
+8. Free SepF blocks recruitment of late cell division proteins
+(Submitter supplied) The cell division protein SepF aligns polymers formed by the key cell division protein FtsZ during synthesis of the (Fts)Z-ring at midcell, the first stage in cytokinesis. In addition, SepF acts as a membrane anchor for the Z-ring. SepF is conserved in Gram-positive and cyanobacteria. Recently, it was shown that SepF overproduction in Mycobacterium smegmatis blocks cell division. Here we investigated this in more detail using the Gram-positive model system Bacillus subtilis. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL19229 5 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE94nnn/GSE94788/
+Series		Accession: GSE94788	ID: 200094788
+
+9. Transcriptional profiling of Bacillus subtilis WT (ABS2005) and ydcH mutant (ASEC56)
+(Submitter supplied) With these experiments we investigate the impact of the deletion of the ydcH gene on the transcriptomes of Bacillus subtilis strains ABS2005.
+Organism:	Bacillus subtilis
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL24109 12 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE104nnn/GSE104816/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA413928
+Series		Accession: GSE104816	ID: 200104816
+
+10. Cold adaptation of tRNA nucleotidyltransferases: a tradeoff in activity, stability and fidelity
+(Submitter supplied) CCA-adding enzymes are highly specific RNA polymerases that synthesize and maintain the sequence CCA at the tRNA 3‘-end. Here, we investigated the impact of cold adaptation on the reactivity and specificity of CCA-adding enzymes from psychrophilic bacteria. A comparative study of the corresponding enzymes from closely related psychro-, meso-, and thermophilic Bacillales indicates that the cold-adapted enzymes show a considerable error rate during CCA synthesis, resulting in additional incorporations of C and A residues. more...
+Organism:	Geobacillus stearothermophilus; Bacillus subtilis subsp. subtilis str. 168; Exiguobacterium sibiricum; Planococcus halocryophilus
+Type:		Expression profiling by high throughput sequencing
+4 related Platforms 23 Samples
+FTP download: GEO (CSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE98nnn/GSE98874/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA386487
+Series		Accession: GSE98874	ID: 200098874
+
+11. Variations in diet type and temperature significantly affect the transcriptional profile of C. elegans
+(Submitter supplied) The transcriptomes of model organisms have been defined under specific laboratory growth conditions. The standard protocol for Caenorhabditis elegans growth and maintenance is 20ºC on an Escherichia coli diet. Temperatures ranging from 15ºC to 25ºC or feeding with other species of bacteria are considered physiological lab conditions, but the effect of these conditions on the worm transcriptome have not been well characterized. more...
+Organism:	Caenorhabditis elegans
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18245 18 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE101nnn/GSE101524/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA394726
+Series		Accession: GSE101524	ID: 200101524
+
+12. Transcriptome analysis of the Bacillus subtilis ccpA topA(S478P) strain
+(Submitter supplied) In this study the isogenic Bacillus subtilis mutant strains ccpA topA+ and ccpA topA(S478P) were analyzed. The S478P suppressor mutation occurred when the ccpA mutant was grown on minimal medium supplemented with glucose and ammonium as single sources of carbon and nitrogen, respectively. Under these conditions, the ccpA mutant is unable to produce enough glutamate for growth, since gltAB, encoding the glutamate synthase, is not expressed. more...
+Organism:	Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platform: GPL21669 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE88nnn/GSE88793/
+Series		Accession: GSE88793	ID: 200088793
+
+13. The nucleoid occlusion factor Noc controls DNA replication initiation in Staphylococcus aureus
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Staphylococcus aureus subsp. aureus NCTC 8325; Bacillus subtilis PY79
+Type:		Other; Genome binding/occupancy profiling by high throughput sequencing
+Platforms: GPL20691 GPL23706 GPL22897 37 Samples
+FTP download: GEO (CSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE100nnn/GSE100777/
+Series		Accession: GSE100777	ID: 200100777
+
+14. The nucleoid occlusion factor Noc controls DNA replication initiation in Staphylococcus aureus [ChIP-Seq]
+(Submitter supplied) Successive division events in the spherically shaped bacterium Staphylococcus aureus are oriented in three alternating perpendicular planes. The mechanisms that underlie this relatively unique pattern of division and coordinate it with chromosome segregation remain largely unknown. Thus far, the only known spatial regulator of division in this organism is the nucleoid occlusion protein Noc that inhibits assembly of the cytokinetic ring over the chromosome. more...
+Organism:	Bacillus subtilis PY79; Staphylococcus aureus subsp. aureus NCTC 8325
+Type:		Genome binding/occupancy profiling by high throughput sequencing
+Platforms: GPL20691 GPL22897 20 Samples
+FTP download: GEO (CSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE93nnn/GSE93264/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA360436
+Series		Accession: GSE93264	ID: 200093264
+
+15. Comparison of Corynebacterium glutamicum chassis C1 with MB001
+(Submitter supplied) To identify genes which are differentially expressed in Corynebacterium glutamicum chassis C1 in comparison to the prophage free strain MB001, we performed DNA microarray analyses of C. glutamicum C1 against MB001. For this purpose RNA was isolated from cells cultivated in CGXII minimal medium with 2% glucose (w v-1) and harvested in the exponential growth phase at an OD600 of 5. Four biological replicates were performed.
+Organism:	Escherichia coli; Bacillus subtilis subsp. subtilis str. 168; Corynebacterium glutamicum; Gluconobacter oxydans
+Type:		Expression profiling by array
+Platform: GPL22561 4 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE88nnn/GSE88717/
+Series		Accession: GSE88717	ID: 200088717
+
+16. Trancriptional profiling of Bacillus subtilis BsB1 and NCIB3610 rho-deletion mutant
+(Submitter supplied) With these experiments we investigate the impact of the deletion of the gene encoding transcription termination Rho on the transcriptomes of two different Bacillus subtilis strains, BsB1 and NCIB3610. The results confirm massive increase of antisense transcription initially observed with tiling arrays in B. subtilis strain 1012 (Nicolas et al. 2012; PMID:22383849; GSE27303).
+Organism:	Bacillus subtilis
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18561 6 Samples
+FTP download: GEO (CSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE94nnn/GSE94303/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA369282
+Series		Accession: GSE94303	ID: 200094303
+
+17. The Graded Response of Fur Regulon to Iron Limitation in Bacillus subtilis
+(Submitter supplied) Bacterial cells often modulate their transcriptional profiles in response to the changes in iron availability. Ferric uptake regulator (Fur), as a global iron biosensor, plays a central role in maintaining iron homeostasis in Bacillus subtilis. Here we utilized a high affinity Fe2+ efflux transporter, Listeria monocytogenes FrvA, as an inducible genetic tool to deplete intracellular iron. We then characterized the responses of the Fur, FsrA, and PerR regulons as cells transition from iron sufficiency to deficiency. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL13726 8 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE100nnn/GSE100668/
+Series		Accession: GSE100668	ID: 200100668
+
+18. RNAseq of ∆yacP (∆rae1) mutant and plasmid complemented strain
+(Submitter supplied) To identify the substrates of YacP (Rae1) by determine which RNAs are affected in a ∆yacP mutant and plasmid complemented strain
+Organism:	Bacillus subtilis
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18561 12 Samples
+FTP download: GEO (FA, XLS, XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE93nnn/GSE93894/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA362730
+Series		Accession: GSE93894	ID: 200093894
+
+19. S-adenosylmethionine decarboxylase-dependent gene expression in planktonic Bacillus subtilis NCIB3610
+(Submitter supplied) The polyamine spermidine is not required for normal planktonic growth of Bacillus subtilis but is essential for robust biofilm formation. In a spermidine-deficient mutant of B. subtilis, the structural analogue norspermidine but not homospermidine restored biofilm formation. Intracellular biosynthesis of another spermidine analogue aminopropylcadaverine from exogenously supplied homoagmatine also restored biofilm formation. more...
+Organism:	Bacillus subtilis; Bacillus subtilis subsp. subtilis str. NCIB 3610
+Type:		Expression profiling by array
+Platform: GPL343 12 Samples
+FTP download: GEO (CEL, CHP) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE96nnn/GSE96942/
+Series		Accession: GSE96942	ID: 200096942
+
+20. Modulation of extracytoplasmic function sigma factor promoter selectivity by spacer region sequence
+(Submitter supplied) The ability of bacteria to adapt to stress depends on their ability to conditionally express specific sets of genes. Bacillus subtilis encodes seven extracytoplasmic function (ECF) sigma (σ) factors that regulate functions important for survival under conditions eliciting cell envelope stress. Of these, four have been studied in detail: σM, σW, σX and σV . The regulons of these four σ factors overlap, although the sequences that determine promoter selectivity are incompletely understood. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL13726 2 Samples
+FTP download: GEO (GPR, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE95nnn/GSE95393/
+Series		Accession: GSE95393	ID: 200095393
+
+21. A novel feedback loop  that controls bimodal expression of genetic competence
+(Submitter supplied) Gene expression can be highly heterogeneous in clonal cell populations. An extreme type of heterogeneity is the so-called bistable or bimodal expression, whereby a cell can differentiate into two alternative expression states, and consequently a population will be composed of cells that are ‘ON’ and cells that are ‘OFF’. Stochastic fluctuations of protein levels, also referred to as noise, provide the necessary source of heterogeneity that must be amplified by autostimulatory feedback regulation to obtain the bimodal response. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL19229 5 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE61nnn/GSE61757/
+Series		Accession: GSE61757	ID: 200061757
+
+22. Bacillus subtilis SMC complexes juxtapose chromosome arms as they travel  from origin to terminus
+(Submitter supplied) Structural maintenance of chromosomes (SMC) complexes play critical roles in chromosome dynamics in virtually all organisms but how they function remains poorly understood. In Bacillus subtilis, SMC condensin complexes are topologically loaded at centromeric sites adjacent to the replication origin. Here we provide evidence that these ring-shaped assemblies tether the left and right chromosome arms together while traveling from the origin to the terminus (>2 Mb) at rates >50kb/min. more...
+Organism:	Bacillus subtilis PY79
+Type:		Other; Genome binding/occupancy profiling by high throughput sequencing
+Platforms: GPL20121 GPL20691 59 Samples
+FTP download: GEO (CSV, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE85nnn/GSE85612/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA338948
+Series		Accession: GSE85612	ID: 200085612
+
+23. RNA-Seq of Bacillus subtilis and its phage AR9 during the infection
+(Submitter supplied) Time course of after infection (5 min, 20 min and 40 min) of Bacillus subtilis by phage AR9
+Organism:	Bacillus subtilis; Bacillus phage AR9
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL22521 4 Samples
+FTP download: GEO (WIG) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE87nnn/GSE87573/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA345214
+Series		Accession: GSE87573	ID: 200087573
+
+24. Transcriptome analysis of rice roots in response to plant growth promoting bacterium Bacillus subtilis RR4
+(Submitter supplied) The aim of our study is to elucidate the gene expression changes in rice in response to colonization by a plant growth promoting rhizobacteria such as the Bacillus subtilis through microarray high throughput technology. In particular, the effect of B.subtilis on root exudation (secretion of phytochemicals through roots) will be analysed. For this rice plantlets were grown in hydroponics and treated with B.subtilis RR4 for 48 hrs. more...
+Organism:	Oryza sativa
+Type:		Expression profiling by array
+Platform: GPL21797 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE80nnn/GSE80800/
+Series		Accession: GSE80800	ID: 200080800
+
+25. Transcriptome analysis of genome-reduced Bacillus subtilis strains
+(Submitter supplied) In this study two genome-reduced Bacillus subtilis strains lacking about 36% of dispensable genetic information were constructed using a markerless and scarless deletion method. In order to analyze the consequences of the deletions for the bacteria, a multi-omics characterization of the reference strain Δ6 (Westers et al., 2003; PMID 12949151) and the two deletion strains was carried out. Bacteria were cultivated in complex medium supplemented with glucose, and samples of the same cultures were subjected to metabolome, proteome, and transcriptome analyses.These revealed a massive re-organization of metabolism as well as substantial changes in the transcriptome and the proteome.
+Organism:	Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platform: GPL21981 12 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE82nnn/GSE82249/
+Series		Accession: GSE82249	ID: 200082249
+
+26. cAMP phosphodiesterase CpdA of Corynebacterium glutamicum: identification, characterization, influence on cAMP level, growth, and global expression, and transcriptional activation by GlxR
+(Submitter supplied) DNA microarrays were applied to investigate the effect of cpdA deletion (del) or overexpression (over) on the global gene expression of C. glutamicum cells. For overexpression of cpdA the gene was cloned into plasmid pEKEx2 under control of the IPTG-inducible tac promoter, which was induced by addition of 250 µM IPTG.
+Organism:	Escherichia coli; Bacillus subtilis subsp. subtilis str. 168; Gluconobacter oxydans; Corynebacterium glutamicum
+Type:		Expression profiling by array
+Platform: GPL20268 6 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE81nnn/GSE81004/
+Series		Accession: GSE81004	ID: 200081004
+
+27. Single-peptide DNA-dependent RNA polymerase homologous to multi-subunit RNA polymerase
+(Submitter supplied) Transcription, the copying of genetic information into RNA, is accomplished by multi-subunit RNA polymerases (msRNAPs) in all living organisms. msRNAPs are highly conserved in evolution and invariantly share a ~400 kDa five-subunit catalytic core1,2. A group of hypothetical single-chain proteins of unknown function, present in various bacteria and bacteriophages, was predicted to be distantly related to msRNAPs, having diverged from them before the Last Universal Common Ancestor3. more...
+Organism:	Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL21796 12 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE80nnn/GSE80786/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA319983
+Series		Accession: GSE80786	ID: 200080786
+
+28. Silencing of cryptic prophages in Corynebacterium glutamicum
+(Submitter supplied) DNA microarrays were applied to investigate the transcriptome of C. glutamicum cells and to identify potential target genes under CgpS countersilencing conditions. The silencing activity of CgpS was reduced by overexpression of the N-terminal part, which was placed under the control of the inducible tac promoter in the pAN6 plasmid. The expression of the N terminal part was induced with 100 µM IPTG.
+Organism:	Gluconobacter oxydans; Bacillus subtilis subsp. subtilis str. 168; Corynebacterium glutamicum; Escherichia coli
+Type:		Expression profiling by array
+Platform: GPL20268 3 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE80nnn/GSE80674/
+Series		Accession: GSE80674	ID: 200080674
+
+29. Depletion of undecaprenyl pyrophosphate phosphatases (UPP-Pases) disrupts cell envelope biogenesis in Bacillus subtilis
+(Submitter supplied) The integrity of the bacterial cell envelope is essential to sustain life by countering the high turgor pressure of the cell and providing a barrier against chemical insults. In Bacillus subtilis, synthesis of both peptidoglycan and wall teichoic acids requires a common C55 lipid carrier, undecaprenyl-pyrophosphate (UPP), to ferry precursors across the cytoplasmic membrane. The synthesis and recycling of UPP requires a phosphatase to generate the monophosphate form Und-P, which is the substrate for peptidoglycan and wall teichoic acid synthases. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL7420 4 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE85nnn/GSE85492/
+Series		Accession: GSE85492	ID: 200085492
+
+30. The gene expression profile of Bacillus subtilis response to the high-temperature fermentation
+(Submitter supplied) High-temperature fermentation of the Bacillus subtilis isolated from the black part of maotai Daqu. Studying on the gene expression profile using microarray for analyzing the connection between metabolites and the maotai flavor substances. 84 differential expressed genes were obtained, including 40 up-regulated genes and 44 down-regulated genes.The differentially expressed genes involved in the metabolic pathways were just only KBL (glycine C - acetyltransferase) and ripA (bifunctional 3, 4 - dihydroxy - 4-2 - butanone phosphate synthase), up-regulated 2.9 and 2.9 times respectively, and their catalytic reaction prodction of aminobutyric acid and dihydroxy ethyl ketone  phosphate, respectively. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL20709 8 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE71nnn/GSE71067/
+Series		Accession: GSE71067	ID: 200071067
+
+31. The impact of manganese on biofilm development of Bacillus subtilis.
+(Submitter supplied) Transcriptome comparison of Bacillus subtilis 168 grown on solid agar (sample 1-3) or aerated liquid (sample 4-7) 2xSG medium with and without of 0.1 mM manganese.
+Organism:	Bacillus subtilis subsp. subtilis str. 168; Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL6031 7 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE61nnn/GSE61232/
+Series		Accession: GSE61232	ID: 200061232
+
+32. Transcriptome changes in response to accumulation of cyclic di-AMP in Bacillus subtilis.
+(Submitter supplied) Cyclic di-AMP is an essential second messenger in many Gram-positive bacteria, including the model organism Bacillus subtilis. Here, we analyzed the transcriptome of a strain accumulating c-di-AMP in vivo. Our results demonstrate that accumulation of c-di-AMP affects the expression of several hundred genes, among them many mother-cell specific sporulation genes. Additionally, the two major biofilm operons, epsA-O and tapA-sipW-tasA, are affected. more...
+Organism:	Bacillus subtilis subsp. subtilis str. 168; Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL21669 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE79nnn/GSE79716/
+Series		Accession: GSE79716	ID: 200079716
+
+33. Analysis of differential gene expression during Bacillus subtilis spore outgrowth in high-salinity environments using RNA sequencing
+(Submitter supplied) Overall, salt stress seemed to slow down the complex molecular reorganization processes (‘ripening’) of outgrowing spores by exerting detrimental effects on vegetative functions such as amino acid metabolism.
+Organism:	Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL21841 14 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE81nnn/GSE81238/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA321031
+Series		Accession: GSE81238	ID: 200081238
+
+34. Growth-rate-dependent gene expression in Bacillus subtilis
+(Submitter supplied) The B. subtilis transcriptome was analyzed under conditions of different growth rates, i.e. during growth in different cultivation media. Gene-level intensities were scaled based on the intensity values of 10 spike-in transcripts. This approach allowed to determine the total mRNA fraction out of the total RNA pool. The data revealed that the proportion of total mRNA in total RNA remained constant across samples which implies that total mRNA abundance in B. more...
+Organism:	Bacillus subtilis; Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platform: GPL10901 16 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE78nnn/GSE78108/
+Series		Accession: GSE78108	ID: 200078108
+
+35. C.glutamicum Δpup mutant senses a stronger iron limitation than the wild type.
+(Submitter supplied) Pupylation is a posttranslational protein modification in bacteria resembling ubiquitination in eukaryotes. The prokaryotic ubiquitin-like protein Pup is covalently attached to other proteins via an isopeptide bond between its carboxyterminal glutamate residue and a lysine residue in the target. In mycobacteria, pupylation was shown to mark proteins for unfolding by the ATPase Mpa and subsequent degradation by the proteasome. more...
+Organism:	Gluconobacter oxydans; Escherichia coli; Corynebacterium glutamicum; Corynebacterium glutamicum ATCC 13032; Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platform: GPL16989 3 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE64nnn/GSE64866/
+Series		Accession: GSE64866	ID: 200064866
+
+36. Engineering Corynebacterium glutamicum for fast production of lysine and pipecolic acid
+(Submitter supplied) The Gram-positive soil bacterium Corynebacterium glutamicum is widely used in industrial fermentative processes for the production of amino acids. The world production of L-lysine has surpassed 2 million tons per year. Glucose is taken up into the C. glutamicum cell by the phosphotransferase system PTS which can be replaced and/or enhanced by a permease and a glucokinase. Heterologous expression of the gene for the high-affinity glucose permease from Streptomyces coelicolor and of the Bacillus subitilis glucokinase gene fully compensated for the absence of the PTS in hpr strains and strains grew as fast with glucose as C. more...
+Organism:	Corynebacterium glutamicum; Corynebacterium glutamicum ATCC 13032
+Type:		Expression profiling by array
+Platform: GPL20582 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE79nnn/GSE79690/
+Series		Accession: GSE79690	ID: 200079690
+
+37. A Comprehensive, CRISPR-based Approach to Functional Analysis of Essential Genes in Bacteria
+(Submitter supplied) Essential gene products underpin the core reactions required for cell viability, but are poorly studied in vivo due to a shortage of appropriate technologies. Using CRISPR interference, we created knockdowns of every essential gene in Bacillus subtilis and probed their phenotypes. Our high-confidence essential gene network, established using chemical genomics, showed extensive interconnections among distantly related processes and identified the modes of action for uncharacterized antibiotics. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by high throughput sequencing; Other
+Platform: GPL18561 8 Samples
+FTP download: GEO (WIG) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE74nnn/GSE74926/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA301937
+Series		Accession: GSE74926	ID: 200074926
+
+38. Control of Smc Coiled Coil Architecture by the ATPase Heads Facilitates Targeting to Chromosomal ParB/parS and Release onto Flanking DNA
+(Submitter supplied) Smc/ScpAB promotes chromosome segregation in prokaryotes, presumably by compacting and resolving nascent sister chromosomes. The underlying mechanisms, however, are poorly understood. Here, we investigate the role of the Smc ATPase activity in the recruitment of Smc/ScpAB to the Bacillus subtilis chromosome. We demonstrate that targeting of Smc/ScpAB to ParB/parS loading sites is strictly dependent on engagement of Smc head domains and relies on an open organization of the Smc coiled coils. more...
+Organism:	Bacillus subtilis subsp. subtilis str. 168
+Type:		Genome binding/occupancy profiling by high throughput sequencing
+Platform: GPL21344 16 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE76nnn/GSE76949/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA309121
+Series		Accession: GSE76949	ID: 200076949
+
+39. Mapping of internal monophosphate 5’ ends of Bacillus subtilis messenger RNAs and ribosomal RNAs in wild-type and ribonuclease-mutant strains
+(Submitter supplied) The narrow-specificity endoribonuclease RNase III and the 5’ exonuclease RNase J1 have been recently found to be not essential in the Gram-positive model organism, Bacillus subtilis. In this study, we performed a global analysis of internal 5’ ends that are generated or acted upon by these enzymes. An RNA-Seq protocol known as PARE (Parallel Analysis of RNA Ends) was used to capture 5’ monophosphorylated RNA ends in ribonuclease wild-type and mutant strains. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by high throughput sequencing
+Platforms: GPL18561 GPL21373 7 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE77nnn/GSE77217/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA309763
+Series		Accession: GSE77217	ID: 200077217
+
+40. The Epigenomic Landscape of Prokaryotes
+(Submitter supplied) DNA methylation is an important regulator of genome function in the eukaryotes, but it is currently unclear if the same is true in prokaryotes. While regulatory functions have been demonstrated for a small number of bacteria, there have been no large-scale studies of prokaryotic methylomes and the full repertoire of targets and biological functions of DNA methylation remains unclear. Here we applied single-molecule, real-time sequencing to directly study the methylomes of 232 phylogenetically diverse prokaryotes. more...
+Organism:	Lactococcus lactis subsp. lactis; Lachnobacterium bovis; Clostridium perfringens ATCC 13124; Methanocaldococcus jannaschii DSM 2661; Thermoplasma volcanium GSS1; Methanospirillum hungatei JF-1; Actinobacillus succinogenes 130Z; Fervidobacterium nodosum Rt17-B1; Bifidobacterium longum subsp. infantis ATCC 15697 = JCM 1222 = DSM 20088; Staphylothermus marinus F1; Thermoanaerobacter sp. X514; Xenorhabdus nematophila ATCC 19061; Dyadobacter fermentans DSM 18053; Streptosporangium roseum DSM 43021; Pedobacter heparinus DSM 2366; Rhizobium etli CIAT 652; Meiothermus ruber DSM 1279; Planctopirus limnophila DSM 3776; Methanothermus fervidus DSM 2088; Sebaldella termitidis ATCC 33386; Methanohalophilus mahii DSM 5219; Aminobacterium colombiense DSM 12261; Pseudomonas stutzeri RCH2; Frankia sp. DC12; Pontibacter actiniarum DSM 19842; Thermobacillus composti KWC4; Marinithermus hydrothermalis DSM 14884; Bernardetia litoralis DSM 6794; Desulfobacca acetoxidans DSM 11109; Rikenella microfusus DSM 15922; Echinicola vietnamensis DSM 17526; Orenia marismortui DSM 5156; Sporocytophaga myxococcoides DSM 11118; Niabella soli DSM 19437; Sinorhizobium medicae WSM1115; Hippea alviniae EP5-r; Hippea sp. KM1; Sphingomonas melonis C3; Methylophilaceae bacterium 11; bacterium JKG1; Thioalkalivibrio sp. ARh3; Thiomonas sp. FB-6; Oxalobacteraceae bacterium AB_14; Desulfotignum balticum DSM 7044; Methylobacterium sp. EUR3 AL-11; Bryobacter aggregatus MPL3; Ruminococcus gnavus AGR2154; Ruminococcus albus AD2013; Eubacterium sp. AB3007; Leeuwenhoekiella sp. Hel_I_48; Ruminococcaceae bacterium AE2021; Lachnospiraceae bacterium AC2031; Selenomonas ruminantium AC2024; Peptostreptococcaceae bacterium VA2; Ruminococcus sp. HUN007; Streptococcus equinus; Salmonella enterica subsp. arizonae serovar 62:z4,z23:-; Xylella fastidiosa Temecula1; Rhodopseudomonas palustris CGA009; Neisseria meningitidis FAM18; Thermoplasma acidophilum DSM 1728; Mycoplasma bovis PG45; Hydrogenovibrio crunogenus XCL-2; Chloroflexus aggregans DSM 9485; Thermosipho melanesiensis BI429; Shewanella woodyi ATCC 51908; Bradyrhizobium elkanii USDA 76; Dinoroseobacter shibae DFL 12 = DSM 16493; Parabacteroides distasonis ATCC 8503; Anoxybacillus flavithermus WK1; Escherichia coli str. K-12 substr. MG1655; Capnocytophaga ochracea DSM 7271; Haloterrigena turkmenica DSM 5511; Palaeococcus ferrophilus DSM 13482; Treponema caldarium DSM 7334; Treponema succinifaciens DSM 2489; Caldithrix abyssi DSM 13497; Meiothermus chliarophilus DSM 9957; Cohnella panacarvi Gsoil 349; Methylobacterium sp. 10; Xanthobacter sp. 91; Geopsychrobacter electrodiphilus DSM 16401; Hydrogenovibrio marinus DSM 11271; Nocardia sp. BMG111209; Klebsiella oxytoca BRL6-2; Polaribacter sp. Hel_I_88; Methylohalobius crimeensis 10Ki; Streptomyces sp. WMMB 714; [Clostridium] josui JCM 17888; Alteromonas sp. ALT199; Desulfovibrio cf. magneticus IFRC170; Aminiphilus circumscriptus DSM 16581; Caldicoprobacter oshimai DSM 21659; Geovibrio sp. L21-Ace-BES; Alteromonadaceae bacterium Bs12; Microbacterium sp. KROCY2; Thermogemmatispora carboxidivorans; Acidobacterium ailaaui; Ruminococcus flavefaciens AE3010; Selenomonas ruminantium AB3002; Butyrivibrio sp. FCS014; Polycyclovorans algicola TG408; Clostridium sp. KNHs205; Lachnospiraceae bacterium AC2029; Enterococcus faecalis 68A; Butyrivibrio sp. AE3004; Escherichia coli CFT073; Salmonella bongori NCTC 12419; Treponema denticola ATCC 35405; Akkermansia muciniphila ATCC BAA-835; Phaeobacter inhibens DSM 17395; Actinosynnema mirum DSM 43827; Staphylococcus aureus subsp. aureus USA300_TCH1516; Sphaerobacter thermophilus DSM 20745; Veillonella parvula DSM 2008; Streptobacillus moniliformis DSM 12112; Sedimentitalea nanhaiensis DSM 24252; Sediminispirochaeta smaragdinae DSM 11293; Hirschia baltica ATCC 49814; Coraliomargarita akajimensis DSM 45221; Acidobacteria bacterium KBS 146; Syntrophothermus lipocalidus DSM 12680; Syntrophobotulus glycolicus DSM 8271; Bacillus subtilis subsp. spizizenii str. W23; Bacteroides salanitronis DSM 18170; Nitratifractor salsuginis DSM 16511; Cellulophaga lytica DSM 7489; Asinibacterium sp. OR53; Solitalea canadensis DSM 3403; Patulibacter minatonensis DSM 18081; Acetobacterium woodii DSM 1030; Nocardia sp. BMG51109; Halomicrobium katesii DSM 19301; Nitriliruptor alkaliphilus DSM 45188; Methylophilus sp. 1; Pseudomonas aeruginosa NCAIM B.001380; Kangiella aquimarina DSM 16071; Pelobacter seleniigenes DSM 18267; Thiomicrospira pelophila DSM 1534; Desulfurobacterium sp. TC5-1; Bacteroides sp. 14(A); Clostridium sp. 12(A); Hydrogenovibrio kuenenii DSM 12350; Leptolyngbya sp. PCC 6406; Maribacter sp. Hel_I_7; Desulfospira joergensenii DSM 10085; Tolumonas lignilytica; Teredinibacter sp. 1162T.S.0a.05; Teredinibacter sp. 991H.S.0a.06; [Clostridium] methoxybenzovorans SR3; [Clostridium] indolis DSM 755; Desulforegula conservatrix Mb1Pa; Oceanicola sp. HL-35; Algoriphagus marincola HL-49; Desulfovibrio sp. L21-Syr-AB; Alicyclobacillus macrosporangiidus CPP55; Sediminibacter sp. Hel_I_10; Hydrogenovibrio sp. MA2-6; Pseudobutyrivibrio ruminis HUN009; Lachnoclostridium phytofermentans KNHs212; Robinsoniella sp. KNHs210; Enterococcus gallinarum; Lactobacillus plantarum; Clostridium algidicarnis; Pyrococcus horikoshii OT3; Methylocystis sp. LW5; Agrobacterium fabrum str. C58; Persephonella; Ruminiclostridium thermocellum ATCC 27405; Mastigocladopsis repens PCC 10914; Neisseria gonorrhoeae FA 1090; Clostridioides difficile 630; Methylobacterium extorquens AM1; Acidobacteriaceae bacterium TAA166; Thiobacillus denitrificans ATCC 25259; Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150; Sulfurimonas denitrificans DSM 1251; Sulfolobus acidocaldarius DSM 639; Flavobacterium psychrophilum JIP02/86; Methanocorpusculum labreanum Z; Cronobacter; Pseudarthrobacter chlorophenolicus A6; Joostella marina; Saccharomonospora viridis DSM 43017; Verrucomicrobia bacterium LP2A; Thermanaerovibrio acidaminovorans DSM 6589; Meiothermus silvanus DSM 9946; Corynebacterium aurimucosum ATCC 700975; Zymomonas mobilis subsp. pomaceae ATCC 29192; Ruminiclostridium thermocellum DSM 1313; Klebsiella aerogenes FGI35; Cellulophaga algicola DSM 14237; Flexistipes sinusarabici DSM 4947; Sulfurospirillum barnesii SES-3; Gillisia limnaea DSM 15749; Spirochaeta thermophila DSM 6578; Ruminococcus sp. NK3A76; Spirochaeta africana DSM 8902; Holophaga foetida DSM 6591; Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7; [Clostridium] clariflavum 4-2a; Thermacetogenium phaeum DSM 12270; Methylophilus sp. 5; Arthrobacter sp. 31Y; Methylophilus sp. 42; Methylotenera versatilis 79; Psychrilyobacter atlanticus DSM 19335; Prevotella sp. 10(H); Methylotenera sp. 73s; Acidovorax sp. JHL-3; Gillisia sp. JM1; Cellulomonas sp. KRMCY2; Clostridium sp. ASBs410; Polaromonas sp. EUR3 1.2.1; Lactobacillus brevis AG48; Pediococcus acidilactici AGR20; Exiguobacterium chiriqhucha; Prevotella sp. HUN102; Lachnospiraceae bacterium AC2012; Clostridioides mangenotii LM2; Exiguobacterium aurantiacum DSM 6208; Exiguobacterium acetylicum DSM 20416; Exiguobacterium oxidotolerans JCM 12280; Exiguobacterium antarcticum DSM 14480; Methylobacter tundripaludum 21/22; Lachnoclostridium phytofermentans KNHs2132; Staphylococcus epidermidis AG42; Butyrivibrio sp. AE3003
+Type:		Methylation profiling by high throughput sequencing
+228 related Platforms 237 Samples
+FTP download: GEO (CSV, GFF) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE69nnn/GSE69872/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA287040
+Series		Accession: GSE69872	ID: 200069872
+
+41. NusA-dependent Transcription Termination Prevents Global Misregulation of Gene Expression
+(Submitter supplied) Canonical bacterial intrinsic terminators do not require additional factors for efficient transcription termination, although the general transcription elongation factor NusA was known to increase the termination efficiency slightly in vitro. We found that the effect of NusA varies widely among different terminators and identified a subclass of weak non-canonical terminators that largely depend on NusA for recognition by RNA polymerase. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL19910 12 Samples
+FTP download: GEO (BEDGRAPH, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE67nnn/GSE67058/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA278818
+Series		Accession: GSE67058	ID: 200067058
+
+42. Probing the regulatory effects of specific mutations in three major binding domains of the pleiotropic regulator CcpA of Bacillus subtilis
+(Submitter supplied) Study the effect of single amino acid point mutations in CcpA at the transcriptome level. Cells were grown in LB with or without 1% glucose and harvested at an OD600 of 0.3 (early exponential phase).
+Organism:	Bacillus subtilis; Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platform: GPL20288 24 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE69nnn/GSE69575/
+Series		Accession: GSE69575	ID: 200069575
+
+43. Effect of floT and floA mutations on the global transcriptome of Bacillus subtilis NCIB3610
+(Submitter supplied) To compare the altered transcript levels in the floT, floA single and floTfloA double mutants of Bacillus subtilis, cells were grown in MSgg medium until the late exponential phase and their transcriptome was compared to the wild type, NCIB3610 strain.
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL6031 9 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE47nnn/GSE47918/
+Series		Accession: GSE47918	ID: 200047918
+
+44. Map of DnaC localization in the presence or absence of PcrA (PcrA depletion)
+(Submitter supplied) The replicative helicase, DnaC, was immunoprecipitated in cell extract prior to, or following conditional depletion of PcrA
+Organism:	Bacillus subtilis subsp. subtilis str. JH642
+Type:		Genome binding/occupancy profiling by high throughput sequencing
+Platform: GPL21232 4 Samples
+FTP download: GEO (WIG) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE75nnn/GSE75953/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA305804
+Series		Accession: GSE75953	ID: 200075953
+
+45. Map of DnaC localization in the presence or absence of PcrA (MycPcrA)
+(Submitter supplied) The replicative helicase, DnaC, was immunoprecipitated in cell extract prior to, or following conditional depletion of PcrA
+Organism:	Bacillus subtilis subsp. subtilis str. JH642
+Type:		Genome binding/occupancy profiling by high throughput sequencing
+Platform: GPL21232 4 Samples
+FTP download: GEO (WIG) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE75nnn/GSE75952/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA305802
+Series		Accession: GSE75952	ID: 200075952
+
+46. Identification of a gene cluster involved in the utilization of phenylpropanoids in Corynebacterium glutamicum
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Escherichia coli; Corynebacterium glutamicum; Gluconobacter oxydans; Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platforms: GPL20268 GPL16989 16 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE69nnn/GSE69449/
+Series		Accession: GSE69449	ID: 200069449
+
+47. Identification of a gene cluster involved in the utilization of phenylpropanoids in Corynebacterium glutamicum [set2]
+(Submitter supplied) DNA microarray experiments with phenylpropanoid pulses were performed in order to get hints on expression of relevant genes or gene clusters activated in presence of phenylpropanoid compounds. We determined the relative mRNA-levels of wild-type cells confronted with phenylpropanoids and unpulsed cells. A pulsing time of 30 minutes was sufficient to find regulation of gene expression in response to the phenylpropanoid amount of 5 mM (final concentration) added. more...
+Organism:	Escherichia coli; Corynebacterium glutamicum; Bacillus subtilis subsp. subtilis str. 168; Gluconobacter oxydans
+Type:		Expression profiling by array
+Platform: GPL20268 14 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE69nnn/GSE69413/
+Series		Accession: GSE69413	ID: 200069413
+
+48. Identification of a gene cluster involved in the utilization of phenylpropanoids in Corynebacterium glutamicum [set1]
+(Submitter supplied) DNA microarray experiments with phenylpropanoid pulses were performed in order to get hints on expression of relevant genes or gene clusters activated in presence of phenylpropanoid compounds. We determined the relative mRNA-levels of wild-type cells confronted with phenylpropanoids and unpulsed cells. A pulsing time of 30 minutes was sufficient to find regulation of gene expression in response to the phenylpropanoid amount of 5 mM (final concentration) added. more...
+Organism:	Gluconobacter oxydans; Escherichia coli; Corynebacterium glutamicum; Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platform: GPL16989 2 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE69nnn/GSE69412/
+Series		Accession: GSE69412	ID: 200069412
+
+49. Global gene expression profiling of the effect of probiotics supplementation in dairy cows
+(Submitter supplied) In animal production, the use of probiotics supplements to promote animal health is increasing. The objective of this study was to assess the impact of probiotics administration on global gene expression in dairy cows. Lactating Holstein-Friesian cows (n=10) from the North Carolina Agricultural and Technical State University dairy herd were used for the study. Treatment was a 50 ml oral drench of FASTtrak microbial pack (Probiotics) (Conklin Company, Kansas City, MO) at the recommended dose in sterile endotoxin-free water or sterile endotoxin-free water only (control). more...
+Organism:	Bos taurus
+Type:		Expression profiling by array
+Platform: GPL11649 16 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE75nnn/GSE75240/
+Series		Accession: GSE75240	ID: 200075240
+
+50. Transcriptional profile of Bacillus subtilis sigF-mutant during vegetative growth and under sporulating conditions
+(Submitter supplied) Bacillus subtilis’ sigma factor F is the first forespore specific transcription factor and controls genes required for the early stages of prespore development. The role of sigF is well studied under conditions that induce sporulation. Here, the impact of a sigF disruption on the transcriptome of exponentially growing cultures is studied by micro-array analysis. This is relevant because in various experiments, such as industrial fermentation, prolonged experimental evolution or zero-growth studies, sporulation is an undesirable trait that should be avoided, e.g by a sigF mutation. more...
+Organism:	Bacillus subtilis; Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platform: GPL15025 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE64nnn/GSE64918/
+Series		Accession: GSE64918	ID: 200064918
+
+51. Constitutive stringent response restores viability of Bacillus subtilis lacking Structural Maintenance of Chromosome protein
+(Submitter supplied) Bacillus subtilis mutants lacking the SMC-ScpAB complex are severely impaired for chromosome condensation and partitioning, DNA repair, and cells are not viable under standard laboratory conditions. We isolated suppressor mutations that restored the capacity of a smc deletion mutant (Δsmc) to grow under standard conditions. These suppressor mutations reduced chromosome segregation defects and abrogated hypersensitivity to gyrase inhibitors of Δsmc. more...
+Organism:	Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platform: GPL19890 7 Samples
+FTP download: GEO (PAIR, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE73nnn/GSE73315/
+Series		Accession: GSE73315	ID: 200073315
+
+52. Condensin promotes the juxtaposition of DNA flanking its loading site in Bacillus subtilis
+(Submitter supplied) SMC condensin complexes play a central role in compacting and resolving replicated chromosomes in virtually all organisms yet how they accomplish this remains elusive. In Bacillus subtilis, condensin is loaded at centromeric parS sites, where it encircles DNA and individualizes newly replicated origins. Using chromosome conformation capture and cytological assays, we show that condensin recruitment to origin-proximal parS sites is required for the juxtaposition of the two chromosome arms. more...
+Organism:	Bacillus subtilis PY79
+Type:		Other; Genome binding/occupancy profiling by high throughput sequencing
+Platforms: GPL20121 GPL20691 41 Samples
+FTP download: GEO (CSV, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE68nnn/GSE68418/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA282683
+Series		Accession: GSE68418	ID: 200068418
+
+53. Transcriptional profiling analysis of Bacillus subtilis in response to high levels of iron (Fe3+)
+(Submitter supplied) Transcriptional profiling analysis was used to reveral the genetic changes of B.subtilis after addition of high levels of iron. This study is to reveal the effect of high levels of iron on B.subtilis' metabolism and identify the potential resistance mechanism to high levels of iron.
+Organism:	Bacillus subtilis subsp. subtilis str. 168; Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL20761 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE71nnn/GSE71694/
+Series		Accession: GSE71694	ID: 200071694
+
+54. Sliding of Bacillus subtilis Natto
+(Submitter supplied) Transcriptome comparison of Bacillus subtilis Natto under sliding permissive (0.7% agar) and restrictive (1.5% agar or spo0A mutant strain) conditions.
+Organism:	Bacillus subtilis subsp. natto; Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL6031 7 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE43nnn/GSE43840/
+Series		Accession: GSE43840	ID: 200043840
+
+55. Prediction of the Mechanism of Action of Fusaricidin on Bacillus subtilis
+(Submitter supplied) Transcriptome analysis of B.subtilis in response to cyclic lipopeptide antibiotic (fusaricidin)
+Organism:	Bacillus subtilis; Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platform: GPL8896 16 Samples
+FTP download: GEO (TXT, XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE70nnn/GSE70916/
+Series		Accession: GSE70916	ID: 200070916
+
+56. Tracking the elusive function of Bacillus subtilis Hfq
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by genome tiling array
+Platforms: GPL19891 GPL19890 8 Samples
+FTP download: GEO (GPR, PAIR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE66nnn/GSE66893/
+Series		Accession: GSE66893	ID: 200066893
+
+57. Tracking the elusive function of Bacillus subtilis Hfq (Agilent)
+(Submitter supplied) Transcriptomic analysis of Bacillus subtilis wild-type strain and hfq mutant in stationary phase of growth using to tiling array gene expression analysis. RNA-binding protein Hfq is a key component of the adaptive responses of many proteobacterial species. In these organisms, the importance of Hfq largely stems from its participation to regulatory mechanisms involving small non-coding RNAs. In contrast, the function of Hfq in Gram-positive bacteria has remained elusive. more...
+Organism:	Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by genome tiling array
+Platform: GPL19891 4 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE66nnn/GSE66892/
+Series		Accession: GSE66892	ID: 200066892
+
+58. Tracking the elusive function of Bacillus subtilis Hfq (NimbleGen)
+(Submitter supplied) Transcriptomic analysis of Bacillus subtilis hfq mutant in exponential phase of growth. Wild-type strain and hfq mutant cells in exponentially growth phase were subjected to tiling array gene expression analysis. RNA-binding protein Hfq is a key component of the adaptive responses of many proteobacterial species. In these organisms, the importance of Hfq largely stems from its participation to regulatory mechanisms involving small non-coding RNAs. more...
+Organism:	Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by genome tiling array
+Platform: GPL19890 4 Samples
+FTP download: GEO (PAIR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE66nnn/GSE66891/
+Series		Accession: GSE66891	ID: 200066891
+
+59. Expression profiles of dnaA null, rok null, and dnaA null; rok null mutants
+(Submitter supplied) To identify potential targets of co-regulation by DnaA and Rok, we compared the transcriptional profiles of dnaA null, rok null, and dnaA null rok null mutants.  Because a dnaA null mutant requires an oriC- strain background, we used an oriC- oriN+ background for all strains, to allow direct comparisons.
+Organism:	Escherichia coli; Bacillus subtilis subsp. subtilis str. 168; Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL10707 12 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE69nnn/GSE69788/
+Series		Accession: GSE69788	ID: 200069788
+
+60. A prophage-encoded actin-like protein required for efficient viral DNA replication in bacteria
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Escherichia coli; Corynebacterium glutamicum; Bacillus subtilis subsp. subtilis str. 168; Gluconobacter oxydans; Corynebacterium glutamicum ATCC 13032
+Type:		Expression profiling by array
+Platforms: GPL16988 GPL16989 9 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE45nnn/GSE45907/
+Series		Accession: GSE45907	ID: 200045907
+
+61. A prophage encoded actin-like protein mediates viral DNA segregation/replication in bacteria [Set2]
+(Submitter supplied) Active segregation of DNA in bacteria is catalyzed by cytomotive structures. Mediators of subcellular plasmid positioning are Walker-type ATPases (ParA), actin-like proteins, or tubulin homologs. These motor proteins are coupled to the DNA via adaptor proteins that recognize specific DNA motifs. Here, we describe that a temperate phage, CGP3, integrated into the genome of Corynebacterium glutamicum ATCC 13032 encodes an actin-like protein, AlpC. more...
+Organism:	Escherichia coli; Corynebacterium glutamicum; Corynebacterium glutamicum ATCC 13032; Bacillus subtilis subsp. subtilis str. 168; Gluconobacter oxydans
+Type:		Expression profiling by array
+Platform: GPL16989 6 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE45nnn/GSE45906/
+Series		Accession: GSE45906	ID: 200045906
+
+62. A prophage encoded actin-like protein mediates viral DNA segregation/replication in bacteria [Set1]
+(Submitter supplied) Active segregation of DNA in bacteria is catalyzed by cytomotive structures. Mediators of subcellular plasmid positioning are Walker-type ATPases (ParA), actin-like proteins, or tubulin homologs. These motor proteins are coupled to the DNA via adaptor proteins that recognize specific DNA motifs. Here, we describe that a temperate phage, CGP3, integrated into the genome of Corynebacterium glutamicum ATCC 13032 encodes an actin-like protein, AlpC. more...
+Organism:	Escherichia coli; Corynebacterium glutamicum; Corynebacterium glutamicum ATCC 13032; Bacillus subtilis subsp. subtilis str. 168; Gluconobacter oxydans
+Type:		Expression profiling by array
+Platform: GPL16988 3 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE45nnn/GSE45905/
+Series		Accession: GSE45905	ID: 200045905
+
+63. An experimentally supported model of the Bacillus subtilis global transcriptional regulatory network.
+(Submitter supplied) Organisms from all domains of life use gene regulation networks to control cell growth, identity, function, and responses to environmental challenges. Although accurate global regulatory models would provide critical evolutionary and functional insights, they remain incomplete, even for the best studied organisms. Efforts to build comprehensive networks are confounded by challenges including network scale, degree of connectivity, complexity of organism-environment interactions, and difficulty of estimating the activity of regulatory factors. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL15179 268 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE67nnn/GSE67023/
+Series		Accession: GSE67023	ID: 200067023
+
+64. A genome-wide analysis of PhoP~P binding to chromosomal DNA reveals several novel features of the PhoPR-mediated phosphate limitation response in Bacillus subtilis
+(Submitter supplied) Identification of the specific PhoP binding regions on the B. subtilis chromosome during exponential and phosphate starvation growth phases. The data serves to extend the PhoPR regulon in Bacillus subtilis and its role in adaptation to phosphate-limiting conditions and cell wall metabolism, as well as implying a role in several other cellular processes.
+Organism:	Bacillus subtilis; Bacillus subtilis subsp. subtilis str. 168
+Type:		Genome binding/occupancy profiling by genome tiling array
+Platform: GPL13168 12 Samples
+FTP download: GEO (PAIR, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE65nnn/GSE65273/
+Series		Accession: GSE65273	ID: 200065273
+
+65. Bacillus subtilis WalR (YycF) ChIP-chip  Bacillus subtilis; Bacillus subtilis subsp. subtilis str. 168
+(Submitter supplied) Identification of the specific WalR (YycF) binding regions on the B. subtilis chromosome during exponential and phosphate starvation growth phases. The data serves to extend the WalRK regulon in Bacillus subtilis and its role in cell wall metabolism, as well as implying a role in several other cellular processes.
+Organism:	Bacillus subtilis; Bacillus subtilis subsp. subtilis str. 168
+Type:		Genome binding/occupancy profiling by genome tiling array
+Platform: GPL13168 12 Samples
+FTP download: GEO (PAIR, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE65nnn/GSE65272/
+Series		Accession: GSE65272	ID: 200065272
+
+66. Genome-wide identification of Bacillus subtilis Zur-binding sites.
+(Submitter supplied) The transcriptional factor Zur plays a key role in regulating zinc homeostasis in Bacillus subtilis. The genomic sites bound by Zur were mapped using a chromatine immunoprecipitation approach. This allowed the identification of 80 inter- and intragenic chromosomal sites bound by Zur.
+Organism:	Bacillus subtilis subsp. subtilis str. 168
+Type:		Genome binding/occupancy profiling by genome tiling array
+Platform: GPL13168 2 Samples
+FTP download: GEO (PAIR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE64nnn/GSE64671/
+Series		Accession: GSE64671	ID: 200064671
+
+67. Circulating microRNA Signatures in Mice Exposed to Lipoteichoic acid
+(Submitter supplied) To profile the expression of circulating microRNAs (miRNAs) of mice in exposure to intraperitoneal lipoteichoic acid (LTA) injection and compare that with those with lipopolysaccharide (LPS) injection
+Organism:	Mus musculus
+Type:		Non-coding RNA profiling by array
+Platform: GPL16180 24 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE41nnn/GSE41837/
+Series		Accession: GSE41837	ID: 200041837
+
+68. Expression profiling of B.subtils ftsZ depletion cells with ftsZ induced or uninduced for 1 or 2hrs.
+(Submitter supplied) The past twenty years have seen tremendous advances in our understanding of the mechanisms underlying bacterial cytokinesis, particularly the composition of the division machinery and the factors controlling its assembly. At the same time, however, we understand very little about the relationship between cell division and other cell cycle events in bacteria. Here we report that inhibiting division in Bacillus subtilis and Staphylococcus aureus quickly leads to an arrest in the initiation of new rounds of DNA replication followed by a complete arrest in cell growth. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL16167 14 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE56nnn/GSE56753/
+Series		Accession: GSE56753	ID: 200056753
+
+69. Physiological and cell morphology adaptation of Bacillus subtilis at near-zero specific growth rates: a transcriptome analysis.
+(Submitter supplied) B. subtilis was cultured in a retentostat at extremely low growth rates and the adaptation of B. subtilis to these near-zero growth conditions was studied by analysis of the transcriptome and genome. During retentostat culturing the specific growth rate decreased to a minimum of 0.00006 h-1, corresponding to a doubling time of 470 days. Transcriptome analysis shows that while cells under near-zero growth conditions exhibit many characteristics of stationary phase cells, they are also fundamentally different. more...
+Organism:	Bacillus subtilis; Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platform: GPL18393 24 Samples
+FTP download: GEO (GPR, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE55nnn/GSE55690/
+Series		Accession: GSE55690	ID: 200055690
+
+70. Transcriptome profiling of Bacillus subtilis OKB105 in response to rice seedlings
+(Submitter supplied) Plant growth-promoting rhizobacteria (PGPR) are soil beneficial microorganisms that colonize plant roots for nutritional purposes and accordingly benefit plants by increasing plant growth or reducing disease. But it still remains unclear which mechanisms or pathways are involved in the interactions between PGPR and plants. To understand the complex plant-PGPR interactions, the changes in the transcriptome of typical PGPR standard Bacillus subtilis in responding to rice seedlings were analyzed.
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL343 6 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE62nnn/GSE62421/
+Series		Accession: GSE62421	ID: 200062421
+
+71. Attachment of Bacillus subtilis to the hyphae of Aspergillus niger results in altered metabolism and defense mechanisms in both partner
+(Submitter supplied) Interaction of microbes affects the growth, metabolism and differentiation of members of the community. While direct and indirect competitions, like spite and nutrient consumption have negative effect on each other, microbes also evolved in nature not only to fight, but in some cases to adapt or support each other while increasing the fitness of the community. Presence of bacteria and fungi in the soil results in interactions and various examples were described, including mutualism. more...
+Organism:	Aspergillus niger; Aspergillus niger CBS 513.88
+Type:		Expression profiling by array
+Platform: GPL6758 6 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE46nnn/GSE46187/
+Series		Accession: GSE46187	ID: 200046187
+
+72. Attachment of Bacillus subtilis to the hyphae of Aspergillus niger results in altered metabolism and defense mechanisms in both partner
+(Submitter supplied) Transcriptome comparison of Bacillus subtilis NCIB3610 attached to the hyphae of Aspergillus niger CB 119.1 compared to Bacillus subtilis NCIB3610 cells in the supernatant of the same culture. Detailed description (other than provided below) of growth conditions, RNA preparation, cDNA synthesis and hybridization conditions can also be found in the submitted paper.
+Organism:	Bacillus subtilis; Bacillus subtilis subsp. subtilis str. 168; Aspergillus niger
+Type:		Expression profiling by array
+Platform: GPL17104 8 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE46nnn/GSE46682/
+Series		Accession: GSE46682	ID: 200046682
+
+73. Comparison of the transcription profile of B. subtilis clpX strain with B. subtilis clpX spx strain, reporting on Spx activity
+(Submitter supplied) In B. subtilis the unusual transcription factor Spx controls the thiol stress response regulon (Nakano et al 2003 PNAS 100:13603; Rochat et a. 2012 NAR 40:9751). Under normal growth conditions Spx is constantly degraded by the AAA+ protease complex ClpXP (Nakano et al 2001 MolMi 42:383). Comparing a B. subtilis clpX strain, where Spx levels are high, with a B. subtilis clpX spx double mutant strain which lacks Spx, will report on Spx dependent transcriptional control. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL17611 2 Samples
+FTP download: GEO (GPR, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE50nnn/GSE50102/
+Series		Accession: GSE50102	ID: 200050102
+
+74. Differential Immunomodulatory Impact of Bacillus subtilis Spores and Vegetative Cells on a Human Colonic Epithelial Cell-Line Model
+(Submitter supplied) Bacillus subtilis strain R0179 is found in a number of commercially-available probiotic products. The mechanism(s) of action of B. subtilis in the host are poorly understood, but may involve the immune system response to switching between spore and vegetative forms. In order to help elucidate this mechanism, we challenged the immune response of a human colonic epithelial HT-29 cell model for 3 hours with the two forms of B. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL13933 2 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE60nnn/GSE60412/
+Series		Accession: GSE60412	ID: 200060412
+
+75. Gene expression in Bacillus subtilis treated with human PGRP, gentamicin, and CCCP
+(Submitter supplied) Human Peptidoglycan Recognition Proteins (PGRPs) kill bacteria, likely by over-activating stress responses in bacteria. To gain insight into the mechanism of PGRP killing of Bacillus subtilis and bacterial defense against PGRP killing, gene expression in B. subtilis treated with a control protein (bovine serum albumin, BSA), human recombinant PGRP (PGLYRP4), gentamicin (aminoglycoside antibiotic), and CCCP (membrane potential decoupler) were compared. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL343 12 Samples
+FTP download: GEO (CEL, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE44nnn/GSE44212/
+Series		Accession: GSE44212	ID: 200044212
+
+76. Pupylated proteins in Corynebacterium glutamicum revealed by MudPIT analysis
+(Submitter supplied) In a manner similar to ubiquitin, the prokaryotic ubiquitin-like protein (Pup) has been shown to target proteins for degradation via the proteasome in mycobacteria. However, not all actinobacteria possessing the Pup protein also harbor a proteasome, suggesting fates for pupylated proteins other than degradation via a proteasome or degradation at all. In the present study we set out to study pupylation in the proteasome-lacking non-pathogenic model microorganism and biotechnological workhorse Corynebacterium glutamicum. more...
+Organism:	Gluconobacter oxydans; Corynebacterium glutamicum ATCC 13032; Escherichia coli; Corynebacterium glutamicum; Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platforms: GPL16988 GPL17304 GPL16989 6 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE48nnn/GSE48038/
+Series		Accession: GSE48038	ID: 200048038
+
+77. A new Rrf2 repressor family member, SaiR, controls transcription of spxA2 encoding a regulator of the oxidative stress response in Bacillus anthracis.
+(Submitter supplied) Spx, a member of the ArsC (arsenate reductase) protein family, is highly conserved in Gram-positive bacteria, where it interacts with RNA polymerase to activate transcription in response to toxic oxidants.  In Bacillus anthracis, resistance to oxidative stress requires the activity of two paralogous forms of Spx, SpxA1 and SpxA2.   Suppressor mutations were identified in spxA1 mutant cells that conferred resistance to hydrogen peroxide. more...
+Organism:	Bacillus anthracis
+Type:		Expression profiling by array
+Platform: GPL10189 6 Samples
+FTP download: GEO (MEV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE57nnn/GSE57851/
+Series		Accession: GSE57851	ID: 200057851
+
+78. Functional characterization of a P. chrysogenum mutanase identified by co-cultivation with Bacillus subtilis.
+(Submitter supplied) Background: Microbial gene expression is to a large extend determined by environmental growth conditions. Differential gene expression analysis between two conditions has been frequently used to reveal regulatory networks and to assign physiological function to unknown genes. In nature, microorganisms cohabit however these interactions have been rarely studied and reproduced in laboratory set-up. Thus to quantitatively explore the genome-wide responses of microbial interaction, we co-cultivated Penicillium chrysogenum and Bacillus subtilis in chemostat culture. more...
+Organism:	Penicillium chrysogenum
+Type:		Expression profiling by array
+Platform: GPL6225 10 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE53nnn/GSE53286/
+Series		Accession: GSE53286	ID: 200053286
+
+79. Nascent elongating transcript sequencing (NET-seq) for Escherichia coli and Bacillus subtilis reveals a consensus pause sequence enriched at translation start sites.
+(Submitter supplied) Transcription by RNA polymerase (RNAP) is interrupted by pauses that play diverse regulatory roles. Although individual pauses have been studied in vitro, the determinants of pauses in vivo and their distribution throughout the bacterial genome remain unknown. Using nascent transcript sequencing we identify a 16 nt consensus pause sequence in E. coli that accounts for known regulatory pause sites as well as ~20,000 new in vivo pause sites. more...
+Organism:	Escherichia coli; Bacillus subtilis
+Type:		Expression profiling by high throughput sequencing; Other
+Platforms: GPL14548 GPL18561 8 Samples
+FTP download: GEO (TXT, WIG) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE56nnn/GSE56720/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA244362
+Series		Accession: GSE56720	ID: 200056720
+
+80. Thermotolerance in B. subtilis
+(Submitter supplied) During thermotolerance development, B. subtilis cells can be primed by a short mild heat shock to survive a subsequent severe, otherwise lethal, heat stress. We wanted to assess the influence of transcriptional regulation during thermotolerance development in B. subtilis. We prepared total RNA of four differently treated samples of B. subtilis cells. For this purpose, exponential B. subtilis cells grown at 37 °C were divided and exposed for additional 15 min to temperatures of 37 °C, 48 °C, 53 °C or 15 min 48 °C followed by 15 min at 53 °C.
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL16693 4 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE45nnn/GSE45972/
+Series		Accession: GSE45972	ID: 200045972
+
+81. Time-series of transcriptome analysis of Bacillus subtilis response to 25 mM potassium acetate and 0.85 µM CCCP
+(Submitter supplied) The advent of ‘omics’ techniques bear significant potential for the assessment of the microbiological stability of foods. This requires the integration of molecular data with their implication for cellular physiology. Here we performed a comparative physiological and transcriptional analysis of Bacillus subtilis stressed with three different weak organic acids: the commonly used food preservatives sorbic- and acetic- acid, plus the well-known uncoupler carbonyl cyanide-m-chlorophenyl hydrazone (CCCP). more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Datasets: GDS5652 GDS5653 Platform: GPL6257 12 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE55nnn/GSE55051/
+Series		Accession: GSE55051	ID: 200055051
+
+82. Phosphorylation of Bacillus subtilis gene regulator AbrB modulates its DNA-binding properties
+(Submitter supplied) AbrB is a global gene regulator involved in transition phase phenomena in Bacillus subtilis. It participates in a complex regulatory network governing the expression of stationary phase functions. AbrB was previously found to be phosphorylated on serine 86 located close to its C-terminal oligomerization domain. Here we report that AbrB can be phosphorylated by three B. subtilis serine/threonine kinases expressed during the transition and stationary phase: PrkC, PrkD and YabT. more...
+Organism:	Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by genome tiling array
+Platform: GPL18558 6 Samples
+FTP download: GEO (PAIR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE56nnn/GSE56723/
+Series		Accession: GSE56723	ID: 200056723
+
+83. Adaptation of Bacillus subtilis carbon core metabolism to simultaneous nutrient limitation and osmotic challenge
+(Submitter supplied) Here, we investigated for the first time the systems-wide response of B. subtilis to different simultaneous stresses, i.e. nutrient limitation and high osmolarity. To address the anticipated complexity of the cellular response networks, we combined chemostat experiments under conditions of carbon limitation, salt stress and osmoprotection with multi-omics analyses at the transcriptome, proteome, metabolome and fluxome levels. more...
+Organism:	Bacillus subtilis; Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platform: GPL10901 9 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE53nnn/GSE53333/
+Series		Accession: GSE53333	ID: 200053333
+
+84. Bacillus subtilis strains at low-pressure: 5 kPa versus 101 kPa growth
+(Submitter supplied) Comparing the transcriptional responses of Bacillus subtilis strains WN624 and WN1106 at 5 kPa and 101 kPa. WN1106 is a 5 kPa-evolved strain with increased fitness compared to ancestor-WN624 strain at 5 kPa. This experiment probed the difference in response when the strains are grown at 5 kPa.
+Organism:	Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platform: GPL17693 8 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE50nnn/GSE50653/
+Series		Accession: GSE50653	ID: 200050653
+
+85. Bacillus subtilis W168, WT vs. sigA (G336C)
+(Submitter supplied) Transcriptional profile of the sigA (G336C) mutant during log growth phase in LB medium.
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL7420 4 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE55nnn/GSE55202/
+Series		Accession: GSE55202	ID: 200055202
+
+86. Comparison of the expression profiles of the 630E strain and a sigK mutant after 24h of growth
+(Submitter supplied) Compartment-specific control of gene expression during Bacillus subtilis sporulation is governed by a cascade of four sigma factors, sigmaF and sigmaG in the forespore and sigmaE and sigmaK in the mother cell. In this work, we combined transcriptional analyses and transcriptional start site mapping to define the sigmaF, sigmaE, sigmaG and sigmaK regulons in Clostridium difficile. A total of about 225 genes were under the control of these sigma factors: 25 in the sigmaF regulon, 97 sigmaE-dependent genes, 50 sigmaG-governed genes and 56 genes specifically controlled by sigmaK. more...
+Organism:	Clostridioides difficile
+Type:		Expression profiling by array
+Platform: GPL10556 4 Samples
+FTP download: GEO (GPR, TXT, XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE43nnn/GSE43201/
+Series		Accession: GSE43201	ID: 200043201
+
+87. Comparison of the expression profiles of the 630E strain and a sigG mutant after 19h of growth
+(Submitter supplied) Compartment-specific control of gene expression during Bacillus subtilis sporulation is governed by a cascade of four sigma factors, sigmaF and sigmaG in the forespore and sigmaE and sigmaK in the mother cell. In this work, we combined transcriptional analyses and transcriptional start site mapping to define the sigmaF, sigmaE, sigmaG and sigmaK regulons in Clostridium difficile. A total of about 225 genes were under the control of these sigma factors: 25 in the sigmaF regulon, 97 sigmaE-dependent genes, 50 sigmaG-governed genes and 56 genes specifically controlled by sigmaK. more...
+Organism:	Clostridioides difficile
+Type:		Expression profiling by array
+Platform: GPL10556 4 Samples
+FTP download: GEO (GPR, TXT, XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE43nnn/GSE43200/
+Series		Accession: GSE43200	ID: 200043200
+
+88. Comparison of the expression profiles of the 630E strain and a sigF mutant after 14h of growth
+(Submitter supplied) Compartment-specific control of gene expression during Bacillus subtilis sporulation is governed by a cascade of four sigma factors, sigmaF and sigmaG in the forespore and sigmaE and sigmaK in the mother cell. In this work, we combined transcriptional analyses and transcriptional start site mapping to define the sigmaF, sigmaE, sigmaG and sigmaK regulons in Clostridium difficile. A total of about 225 genes were under the control of these sigma factors: 25 in the sigmaF regulon, 97 sigmaE-dependent genes, 50 sigmaG-governed genes and 56 genes specifically controlled by sigmaK. more...
+Organism:	Clostridioides difficile
+Type:		Expression profiling by array
+Platform: GPL10556 4 Samples
+FTP download: GEO (GPR, TXT, XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE43nnn/GSE43199/
+Series		Accession: GSE43199	ID: 200043199
+
+89. Comparison of the expression profiles of the 630E strain and a sigE mutant after 14h of growth
+(Submitter supplied) Compartment-specific control of gene expression during Bacillus subtilis sporulation is governed by a cascade of four sigma factors, sigmaF and sigmaG in the forespore and sigmaE and sigmaK in the mother cell. In this work, we combined transcriptional analyses and transcriptional start site mapping to define the sigmaF, sigmaE, sigmaG and sigmaK regulons in Clostridium difficile. A total of about 225 genes were under the control of these sigma factors: 25 in the sigmaF regulon, 97 sigmaE-dependent genes, 50 sigmaG-governed genes and 56 genes specifically controlled by sigmaK. more...
+Organism:	Clostridioides difficile
+Type:		Expression profiling by array
+Platform: GPL10556 4 Samples
+FTP download: GEO (GPR, TXT, XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE43nnn/GSE43198/
+Series		Accession: GSE43198	ID: 200043198
+
+90. Comparison of the expression profiles of the Clostridium difficile 630E strain and a spoIIID mutant after 15h of growth
+(Submitter supplied) Compartment-specific control of gene expression during Bacillus subtilis sporulation is governed by a cascade of four sigma factors, sigmaF and sigmaG in the forespore and sigmaE and sigmaK in the mother cell. In this work, we combined transcriptional analyses and transcriptional start site mapping to define the sigmaF, sigmaE, sigmaG and sigmaK regulons in Clostridium difficile. A total of about 225 genes were under the control of these sigma factors: 25 in the sigmaF regulon, 97 sigmaE-dependent genes, 50 sigmaG-governed genes and 56 genes specifically controlled by sigmaK. more...
+Organism:	Clostridioides difficile
+Type:		Expression profiling by array
+Platform: GPL10556 2 Samples
+FTP download: GEO (GPR, TXT, XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE45nnn/GSE45689/
+Series		Accession: GSE45689	ID: 200045689
+
+91. Bacillus subtilis KS002 Targocil stimulon
+(Submitter supplied) Transcriptional response of Bacillus subtilis KS002 to targocil
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL7420 6 Samples
+FTP download: GEO (GPR, XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE54nnn/GSE54577/
+Series		Accession: GSE54577	ID: 200054577
+
+92. IpsA, a novel transcriptional regulator required for inositol derived lipid formation in Corynebacteria and Mycobacteria
+(Submitter supplied) The development of new drugs against tuberculosis and diphtheria is focused on disrupting the biogenesis of the cell wall, the unique architecture of which confers resistance against current therapies. The enzymatic pathways involved in the synthesis of the cell wall by these pathogens are well understood but the underlying regulatory mechanisms are largely unknown. Here, we characterize IpsA, a LacI-type transcriptional regulator conserved among Mycobacteria and Corynebacteria that plays a role in the regulation of cell wall biogenesis. more...
+Organism:	Gluconobacter oxydans; Escherichia coli; Corynebacterium glutamicum; Corynebacterium glutamicum ATCC 13032; Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platform: GPL16988 3 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE50nnn/GSE50210/
+Series		Accession: GSE50210	ID: 200050210
+
+93. Identification of the genes regulated by YvfI transcriptional factor
+(Submitter supplied) Genome-wide comparative transcriptome analysis of the Bacillus subtilis parent strain PY79 and its yvfI derivative with yvfI::T10::spc (TEK1) grown in PA medium Detailed description of sample preparation and microarray conditions can be also found in Irigul et al to be submitted
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL6031 3 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE34nnn/GSE34414/
+Series		Accession: GSE34414	ID: 200034414
+
+94. The YmdB phosphodiesterase is a global regulator of biofilm-specific mRNA levels in Bacillus subtilis
+(Submitter supplied) Detailed description (other than provided below) of growth conditions, RNA preparation, cDNA synthesis and hybridization conditions can  be found in the submitted paper.
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL6031 16 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE39nnn/GSE39142/
+Series		Accession: GSE39142	ID: 200039142
+
+95. The conserved DNA-binding protein WhiA is involved in cell division in Bacillus subtilis
+(Submitter supplied) One of the first steps in bacterial cell division is the polymerization of the tubulin-like protein FtsZ at midcell. The dynamics of FtsZ polymerization is regulated by a set of proteins among which ZapA. A zapA mutation does not result in a clear phenotype in Bacillus subtilis. In this study we used a synthetic-lethal screen to find genes that become essential when ZapA is absent. Three transposon insertions were found in yvcL. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL16974 7 Samples
+FTP download: GEO (FTR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE45nnn/GSE45824/
+Series		Accession: GSE45824	ID: 200045824
+
+96. Expression profiling of B.subtils SMY wild-type, (p)ppGpp0, ΔcodY (p)ppGpp0 and guaB- (p)ppGpp0 cells upon amino acid starvation (RHX) or guanosine (Guo) treatment.
+(Submitter supplied) The nucleotide (p)ppGpp is crucial for viability during amino acid limitation in bacteria, yet how it accomplishes this remains unknown. We found that the absence of (p)ppGpp in Bacillus subtilis cells leads to multiple amino acid auxotrophy, and that (p)ppGpp allows for prototrophy by reducing GTP levels. We provide evidence that reduction of GTP levels relieves the requirements for branched-chain amino acids primarily by preventing hyperactivity of the GTP-dependent transcriptional regulator CodY, but that GTP levels can also play an important role in regulating transcription of many amino acid biosynthesis genes independently of CodY. more...
+Organism:	Bacillus subtilis subsp. subtilis str. SMY; Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL16167 36 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE41nnn/GSE41501/
+Series		Accession: GSE41501	ID: 200041501
+
+97. E. coli rnpb mutants: wild type proxy strain DW2/pFLP-Ec vs. DW2/pFLP-Bs strain
+(Submitter supplied) Transcriptional profiling of DW2 E. coli cells in exponential growth phase that have a chromosomal deletion of the rnpb gene (which encodes the catalytic subunit of Ribonuclease P). We compared the test strain DW2/pFLP-Bs that expresses Bacillus subtilis rnpb from plasmid pFLP-Bs to reference strain DW2/pFLP-Ec, which expresses E. coli rnpb from plasmid pFLP-Ec.
+Organism:	Escherichia coli
+Type:		Expression profiling by array
+Platform: GPL17833 5 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE51nnn/GSE51639/
+Series		Accession: GSE51639	ID: 200051639
+
+98. A Serine Sensor for Multicellularity in a Bacterium
+(Submitter supplied) We report the discovery of a simple environmental sensing mechanism for biofilm formation in the bacterium Bacillus subtilis that operates without the involvement of a dedicated RNA or protein. Certain serine codons, the four TCN codons, in the gene for the biofilm repressor SinR caused a lowering of SinR levels under biofilm-inducing conditions. Synonymous substitutions of these TCN codons with AGC or AGT impaired biofilm formation and gene expression. more...
+Organism:	Bacillus subtilis subsp. subtilis str. NCIB 3610
+Type:		Expression profiling by high throughput sequencing; Non-coding RNA profiling by high throughput sequencing
+Platform: GPL17729 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE50nnn/GSE50870/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA219205
+Series		Accession: GSE50870	ID: 200050870
+
+99. B. subtilis response to rotten meat volatiles.
+(Submitter supplied) To find a promoter upregulated in the presence of rotten meat, we exposed B. subtilis 168 to the volatiles of rotten meat (mixed beef/pork) and performed a microarray comparing it to B. subtilis  which was not exposed to the meat. The results where used to build iGEM Groningen 2012s Food Warden, a spoiled meat detector. Find more information at: 2012.igem.org/Team:Groningen
+Organism:	Bacillus subtilis subsp. subtilis str. 168; Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL17671 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE50nnn/GSE50538/
+Series		Accession: GSE50538	ID: 200050538
+
+100. Transcriptome analysis of Bacillus subtilis in response to air plasma treatment
+(Submitter supplied) In this study, we present a follow up investigation on the effects of argon plasma on vegetative growing Bacillus subtilis 168 (see GSE27113). A growth chamber system suitable for low temperature gas plasma treatment of bacteria in liquid medium enabled a first glimpse on the complex cellular response. In order to gain further knowledge, a second kind of plasma treatment was applied and combined proteomic and transcriptomic analyses were used to investigate the specific stress response of B. more...
+Organism:	Bacillus subtilis subsp. subtilis str. 168; Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL10901 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE32nnn/GSE32865/
+Series		Accession: GSE32865	ID: 200032865
+
+101. Genome-wide transcriptional profiling of the purple sulfur bacterium Allochromatium vinosum DSM 180T during growth on different reduced sulfur compounds
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Pseudomonas aeruginosa PAO1; Pseudomonas putida KT2440; Rhodobacter capsulatus SB 1003; Allochromatium vinosum DSM 180; Corynebacterium glutamicum; Bacillus subtilis subsp. subtilis str. 168; Escherichia coli str. K-12 substr. MG1655
+Type:		Expression profiling by array
+Platforms: GPL16587 GPL16588 13 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE44nnn/GSE44042/
+Series		Accession: GSE44042	ID: 200044042
+
+102. Genome-wide transcriptional profiling of the purple sulfur bacterium Allochromatium vinosum DSM 180T during growth on different reduced sulfur compounds [Set2]
+(Submitter supplied) The purple sulfur bacterium Allochromatium vinosum DSM 180T is one of the best studied sulfur-oxidizing anoxygenic phototrophic bacteria and has been developed into a model organism for laboratory-based studies of oxidative sulfur metabolism. Here, we took advantage of the organism’s high metabolic versatility and performed whole-genome transcriptional profiling to investigate the response of A. vinosum cells upon exposure to sulfide, thiosulfate, elemental sulfur or sulfite as compared to photoorganoheterotrophic growth on malate. more...
+Organism:	Corynebacterium glutamicum; Pseudomonas putida KT2440; Bacillus subtilis subsp. subtilis str. 168; Allochromatium vinosum DSM 180; Pseudomonas aeruginosa PAO1
+Type:		Expression profiling by array
+Platform: GPL16588 4 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE44nnn/GSE44041/
+Series		Accession: GSE44041	ID: 200044041
+
+103. Genome-wide transcriptional profiling of the purple sulfur bacterium Allochromatium vinosum DSM 180T during growth on different reduced sulfur compounds [Set1]
+(Submitter supplied) The purple sulfur bacterium Allochromatium vinosum DSM 180T is one of the best studied sulfur-oxidizing anoxygenic phototrophic bacteria and has been developed into a model organism for laboratory-based studies of oxidative sulfur metabolism. Here, we took advantage of the organism’s high metabolic versatility and performed whole-genome transcriptional profiling to investigate the response of A. vinosum cells upon exposure to sulfide, thiosulfate, elemental sulfur or sulfite as compared to photoorganoheterotrophic growth on malate. more...
+Organism:	Bacillus subtilis subsp. subtilis str. 168; Rhodobacter capsulatus SB 1003; Escherichia coli str. K-12 substr. MG1655; Allochromatium vinosum DSM 180
+Type:		Expression profiling by array
+Platform: GPL16587 9 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE44nnn/GSE44040/
+Series		Accession: GSE44040	ID: 200044040
+
+104. Expression analysis of sporulating Bacillus subtilis strain 168 deleted for prpE gene
+(Submitter supplied) Investigation of whole genome gene expression level changes in sporulating Bacillus subtilis 168 delta-prpE mutant, compared to the wild-type strain.  The mutation engineered into this strain results in impaired germination of spores.
+Organism:	Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platform: GPL9817 36 Samples
+FTP download: GEO (CALLS, PAIR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE44nnn/GSE44125/
+Series		Accession: GSE44125	ID: 200044125
+
+105. Undomesticated Bacillus subtilis RemA regulon
+(Submitter supplied) Transcriptional profiling of Bacillus subtilis str 3610 cells comparing sinR-/epsH- cells to sinR-/epsH-/remA- cells in MSgg Medium at optical density (600nm) of 1.0
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL15179 3 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE47nnn/GSE47409/
+Series		Accession: GSE47409	ID: 200047409
+
+106. Bacterial discrimination by Dictyostelid amoebae reveals the complexity of ancient interspecies interactions
+(Submitter supplied) Transcriptional profiling of D. discoideum revealed sets of genes whose expression is enriched in amoebae interacting with different species of bacteria, including sets that appear specific to amoebae interacting with Gram(+), or with Gram(-) bacteria. In a genetic screen utilizing the growth of mutant amoebae on a variety of bacteria as a phenotypic readout, we identified amoebal genes that are only required for growth on Gram(+) bacteria, including one that encodes the cell surface protein gp130, as well as several genes that are only required for growth on Gram(-) bacteria including one that encodes a putative lysozyme, AlyL. more...
+Organism:	Dictyostelium discoideum
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL9379 8 Samples
+FTP download: GEO (TAB) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE46nnn/GSE46386/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA198906
+Series		Accession: GSE46386	ID: 200046386
+
+107. Expression data from Bacillus subtilis 168 during growth
+(Submitter supplied) The gene expression of Bacillus subtilis 168 showed 3 major patterns including early expression, transition expression and late expression We monitored Bacillus subtilis gene expression by using microarray at differernt time points
+Organism:	Bacillus subtilis subsp. subtilis str. 168; Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL343 7 Samples
+FTP download: GEO (CEL, CHP) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE45nnn/GSE45933/
+Series		Accession: GSE45933	ID: 200045933
+
+108. Bacillus subtilis W168, WT vs. uppS-RBS (A to C)
+(Submitter supplied) Transcriptional profile of the uppS-RBS (A to C) mutant during log growth phase in LB medium.
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL7420 4 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE45nnn/GSE45305/
+Series		Accession: GSE45305	ID: 200045305
+
+109. Bacillus subtilis Rnase Y activity in vivo analysed by tiling microarrays
+(Submitter supplied) RNase Y is an essential endoribonuclease affecting global mRNA stability in Bacillus subtilis. We used high-resolution tiling arrays to analyze the effect of RNase Y depletion on RNA abundance covering the entire genome. The data confirm that this endoribonuclease plays a key role in initiating the decay of a large number of mRNAs as well as non coding RNAs. Comparison of the data with that of two other recent studies revealed very significant differences. more...
+Organism:	Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by genome tiling array
+Platform: GPL15736 4 Samples
+FTP download: GEO (PAIR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE38nnn/GSE38897/
+Series		Accession: GSE38897	ID: 200038897
+
+110. Definition of the σ(W) Regulon of Bacillus subtilis in the Absence of Stress
+(Submitter supplied) Comprison of the transcriptome of wild type Bacillus subtilis to the mutants sigW, rasP and prsW to select all candidate sigW regulated genes. We identified 89 genes as being sigW regulated, including several non-coding RNA's. The effects of rasP and prsW mutations on sigW regulated genes were relatively mild, implying that RasP or PrsW are not strictly required for sigW activation. The rasP mutant has a peliotropic phenotype, affecting competence development, protein secretion and membrane protein production. more...
+Organism:	Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by genome tiling array
+Platform: GPL15150 11 Samples
+FTP download: GEO (PAIR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE35nnn/GSE35236/
+Series		Accession: GSE35236	ID: 200035236
+
+111. Comparison of Bacillus subtilis wild type and cshA mutant at exponential versus stationary phase
+(Submitter supplied) Comparison of Bacillus subtilis wild type and cshA mutant at exponential versus stationary phase. Detailed description (other than provided below) of growth conditions, RNA preparation, cDNA synthesis and hybridization conditions can  be found in the submitted paper.
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL6031 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE36nnn/GSE36877/
+Series		Accession: GSE36877	ID: 200036877
+
+112. Expression profiling of B.subtils SMY wild-type vs. (p)ppGpp0 cells upon amino acid starvation.
+(Submitter supplied) Cells constantly adjust their metabolism in response to environmental conditions, yet major mechanisms underlying survival remain poorly understood. We discover a post-transcriptional mechanism that integrates starvation response with GTP homeostasis to allow survival, enacted by the nucleotide (p)ppGpp, a key player in bacterial stress response and persistence. We reveal that (p)ppGpp activates global metabolic changes upon starvation, allowing survival entirely by regulating GTP. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL15871 12 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE39nnn/GSE39758/
+Series		Accession: GSE39758	ID: 200039758
+
+113. The regulon of the pleiotropic transcription factor Spx in Bacillus subtilis
+(Submitter supplied) The transcriptional regulator Spx plays a key role in maintaining the redox homeostasis of Bacillus subtilis cells exposed to disulfide stress. Defects in Spx were previously shown to lead to differential expression of numerous genes but direct and indirect regulatory effects could not be distinguished. Wild-type strain and spx mutant cells exposed or not to diamide stress were subjected to tiling array gene expression analysis. more...
+Organism:	Bacillus subtilis subsp. subtilis str. 168
+Type:		Genome binding/occupancy profiling by genome tiling array
+Platform: GPL8486 4 Samples
+FTP download: GEO (PAIR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE35nnn/GSE35097/
+Series		Accession: GSE35097	ID: 200035097
+
+114. High- and low-affinity cre boxes for CcpA binding in Bacillus subtilis revealed by genome-wide analysis
+(Submitter supplied) In Bacillus subtilis and its relatives carbon catabolite control, a mechanism enabling to reach maximal efficiency of carbon and energy sources metabolism, is achieved by the global regulator CcpA (carbon catabolite protein A). CcpA in a complex with HPr-Ser-P (seryl-phosphorylated form of histidine-containing protein, HPr) binds to operator sites called catabolite responsive elements, cre. Depending on the cre box position relative to the promoter, the CcpA/HPr-Ser-P complex can either act as a positive or a negative regulator. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL15025 10 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE35nnn/GSE35154/
+Series		Accession: GSE35154	ID: 200035154
+
+115. Single cell fitness of B. subtilis correlates with the ability to adapt to various stresses.
+(Submitter supplied) How cells dynamically respond to fluctuating environmental conditions depends on the architecture and noise of the underlying genetic circuits. Most work characterizing stress pathways in the model bacterium Bacillus subtilis has been performed on bulk cultures using ensemble assays. However, investigating the single cell response to stress is important since noise might generate significant phenotypic heterogeneity. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL5957 3 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE33nnn/GSE33506/
+Series		Accession: GSE33506	ID: 200033506
+
+116. A genomic signature of gene-environment interactions in C. elegans
+(Submitter supplied) The phenotype is an interplay between genetic and environmental components, however the relationship between these two is difficult to predict. For any particular environment only a handful of genes show gene environment interaction [refs]. This may imply that certain constrains prevent genes to participate in gene environment interaction that possibly could be used to predict potential targets for such interaction under different sets of environmental conditions. more...
+Organism:	Caenorhabditis elegans
+Type:		Expression profiling by array
+Platform: GPL13394 90 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE34nnn/GSE34650/
+Series		Accession: GSE34650	ID: 200034650
+
+117. RNase Y of Staphylococcus aureus and its role in the activation of virulence genes
+(Submitter supplied) RNase Y of Bacillus subtilis is a key member of the degradosome and important for bulk mRNA turnover. In contrast to B. subtilis, the RNase Y homologue (rny/cvfA) of Staphylococcus aureus is not essential for growth. Here we found that RNase Y plays a major role in virulence gene regulation. Accordingly, rny deletion mutants demonstrated impaired virulence in a murine bacteraemia model. RNase Y is important for the processing and stabilisation of the immature transcript of the global virulence regulator system SaePQRS. more...
+Organism:	Staphylococcus aureus
+Type:		Expression profiling by array
+Platform: GPL1339 6 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE34nnn/GSE34980/
+Series		Accession: GSE34980	ID: 200034980
+
+118. Bacillus subtilis W168, WT vs. rpoC (G1122D)
+(Submitter supplied) Transcriptional profile of the rpoC G1122D mutant during log growth phase in LB medium.
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL7420 4 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE37nnn/GSE37742/
+Series		Accession: GSE37742	ID: 200037742
+
+119. Bacillus subtilis spores, PROTECT experiment, Space-exposed and Mars-exposed vs. Earth-control
+(Submitter supplied) Because of their ubiquity and resistance to spacecraft decontamination, bacterial spores are considered likely potential forward contaminants on robotic missions to Mars. Thus it is important to understand their global responses to long-term exposure to space or Mars environments. As part of the PROTECT experiment, spores of B. subtilis 168 were exposed to real space conditions and to simulated martian conditions for 559 days in low Earth orbit mounted on the EXPOSE-E exposure platform outside the European Columbus module on the International Space Station. more...
+Organism:	Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platform: GPL15420 2 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE37nnn/GSE37124/
+Series		Accession: GSE37124	ID: 200037124
+
+120. Comparative transcriptional analysis of bacillus subtilis cells overproducing either secreted proteins, lipoproteins or membrane proteins
+(Submitter supplied) Background. Bacillus subtilis is a favorable host for the production of industrially relevant proteins because of its capacity of secreting proteins into the medium to high levels, its GRAS (Generally Recognized As Safe) status, its genetic accessibility and its capacity to grow in large fermentations. However, production of heterologous proteins still faces limitations. Results. This study aimed at the identification of bottlenecks in secretory protein production by analyzing the response of B. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL15025 29 Samples
+FTP download: GEO (TXT, XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE34nnn/GSE34505/
+Series		Accession: GSE34505	ID: 200034505
+
+121. Human cerebrospinal fluid autoantibody lipid microarray profiling (Fig. 1A)
+(Submitter supplied) Lipids comprise 70% of the myelin sheath, and autoantibodies against lipids may contribute to the demyelination that characterizes multiple sclerosis (MS). We used lipid antigen microarrays and lipid mass spectrometry to identify bona fide lipid targets of the autoimmune response in MS brain and an animal model of MS to explore the role of the identified lipids in autoimmune demyelination. We found that autoantibodies in MS target a phosphate group in phosphatidylserine and oxidized phosphatidylcholine derivatives. more...
+Organism:	Bacillus subtilis; Salmonella enterica subsp. enterica serovar Typhimurium; Escherichia coli; Staphylococcus aureus; Sus scrofa domesticus; Streptococcus pyogenes; Bos primigenius; Pseudomonas aeruginosa; Mycobacterium tuberculosis; Homo sapiens
+Type:		Other
+Platform: GPL15505 59 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE37nnn/GSE37664/
+Series		Accession: GSE37664	ID: 200037664
+
+122. Human cerebrospinal fluid autoantibody lipid microarray profiling (Fig. 2A)
+(Submitter supplied) Lipids comprise 70% of the myelin sheath, and autoantibodies against lipids may contribute to the demyelination that characterizes multiple sclerosis (MS). We used lipid antigen microarrays and lipid mass spectrometry to identify bona fide lipid targets of the autoimmune response in MS brain and an animal model of MS to explore the role of the identified lipids in autoimmune demyelination. We found that autoantibodies in MS target a phosphate group in phosphatidylserine and oxidized phosphatidylcholine derivatives. more...
+Organism:	Streptococcus pyogenes; Mycobacterium tuberculosis; Homo sapiens; Pseudomonas aeruginosa; Bacillus subtilis; Escherichia coli; Staphylococcus aureus; Sus scrofa domesticus; Bos primigenius; Salmonella enterica subsp. enterica serovar Typhimurium
+Type:		Other
+Platform: GPL15506 24 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE37nnn/GSE37670/
+Series		Accession: GSE37670	ID: 200037670
+
+123. Human cerebrospinal fluid autoantibody lipid microarray profiling (Fig. 2C)
+(Submitter supplied) Lipids comprise 70% of the myelin sheath, and autoantibodies against lipids may contribute to the demyelination that characterizes multiple sclerosis (MS). We used lipid antigen microarrays and lipid mass spectrometry to identify bona fide lipid targets of the autoimmune response in MS brain and an animal model of MS to explore the role of the identified lipids in autoimmune demyelination. We found that autoantibodies in MS target a phosphate group in phosphatidylserine and oxidized phosphatidylcholine derivatives. more...
+Organism:	Pseudomonas aeruginosa; Mycobacterium tuberculosis; Homo sapiens; Sus scrofa domesticus; Bos primigenius; Bacillus subtilis; Salmonella enterica subsp. enterica serovar Typhimurium; Escherichia coli; Staphylococcus aureus; Streptococcus pyogenes
+Type:		Other
+Platform: GPL15535 25 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE37nnn/GSE37826/
+Series		Accession: GSE37826	ID: 200037826
+
+124. Human cerebrospinal fluid autoantibody lipid microarray profiling
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Pseudomonas aeruginosa; Bacillus subtilis; Salmonella enterica subsp. enterica serovar Typhimurium; Escherichia coli; Staphylococcus aureus; Sus scrofa domesticus; Bos primigenius; Streptococcus pyogenes; Mycobacterium tuberculosis; Homo sapiens
+Type:		Other
+Platforms: GPL15505 GPL15506 GPL15535 108 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE37nnn/GSE37830/
+Series		Accession: GSE37830	ID: 200037830
+
+125. The Streptomyces coelicolor DegS-DegU-like regulon
+(Submitter supplied) The Streptomyces coelicolor two genes operon SCO5784-SCO5785 encodes a two-component system which functions in a similar manner to that of the Bacillus subtilis DegS-DegU system. Propagation of the regulatory gene in high copy number results in the overproduction of several extracellular enzymes, among them the major extracellular protease, as well as in a higher level of synthesis of the antibiotic actinorhodin. more...
+Organism:	Streptomyces coelicolor A3(2); Streptomyces coelicolor
+Type:		Expression profiling by array
+Platform: GPL8832 6 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE23nnn/GSE23195/
+Series		Accession: GSE23195	ID: 200023195
+
+126. Regulation of ykrL (htpX) by Rok and YkrK, a novel type of regulator in Bacillus subtilis
+(Submitter supplied) Expression of ykrL of Bacillus subtilis, encoding a close homologue of the Escherichia coli membrane protein quality control protease HtpX, was shown to be upregulated under membrane protein overproduction stress. Using DNA affinity chromatography, two proteins were found to bind to the promoter region of ykrL: Rok, known as a repressor of competence and genes for extracytoplasmic functions, and YkrK, a novel type of regulator encoded by the gene adjacent to ykrL, but divergently transcribed. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL5957 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE33nnn/GSE33456/
+Series		Accession: GSE33456	ID: 200033456
+
+127. Global impact of protein arginine phosphorylation on the physiology of Bacillus subtilis
+(Submitter supplied) Reversible protein phosphorylation is an important and ubiquitous protein modification in all living cells. We report that protein arginine phosphorylation plays a physiological significant role for the regulation of protein activity. We detected 121 arginine phospho-sites for 87 proteins in the Gram-positive model organism Bacillus subtilis in vivo. Moreover, we provide evidences that arginine phosphorylations are involved in the fine-tuned signal transduction of many critical cellular processes, such as protein degradation, motility, competence, stringent and stress response. more...
+Organism:	Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platform: GPL10901 18 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE31nnn/GSE31249/
+Series		Accession: GSE31249	ID: 200031249
+
+128. The anti-Shine-Dalgarno sequence drives translational pausing and codon choice in bacteria
+(Submitter supplied) Protein synthesis by ribosomes takes place on a linear substrate but at variable speeds. Transient pausing of ribosomes can impact a variety of co-translational processes, including protein targeting and folding. These pauses are influenced by the sequence of the mRNA. Thus redundancy in the genetic code allows the same protein to be translated at different rates. However, our knowledge of both the position and the mechanism of translational pausing in vivo is highly limited. more...
+Organism:	Escherichia coli; Escherichia coli str. K-12 substr. MG1655; Escherichia coli BW25113; Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by high throughput sequencing
+4 related Platforms 7 Samples
+FTP download: GEO (WIG) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE35nnn/GSE35641/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA152495
+Series		Accession: GSE35641	ID: 200035641
+
+129. C. elegans young adults cultured on Bacillus subtilis strain 67 vs cultured on E. coli OP50
+(Submitter supplied) Transcriptional profiling of C. elegans young adult worms cultured on non-pathogenic Bacillus subtilis strain 67 versus age-matched worms cultured on the control lab food E. coli OP50. The goal was to identify genes regulated in response to differences in diet, which potentially confer immunity to later exposures to pathogenic Bacillus thuringiensis DB27.
+Organism:	Caenorhabditis elegans
+Type:		Expression profiling by array
+Platform: GPL10094 4 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE36nnn/GSE36733/
+Series		Accession: GSE36733	ID: 200036733
+
+130. Targeted transcriptome analysis of the SigB regulon in Bacillus subtilis
+(Submitter supplied) Bacillus subtilis is exposed to a wide range of transitory stress and starvation conditions. Here we investigate the expression changes observed in the B. subtilis wild type strain 168 and its isogenic sigB mutant(BSM29) with respect to each stress condition tested.
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL14719 111 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE32nnn/GSE32895/
+Series		Accession: GSE32895	ID: 200032895
+
+131. Tiling array hybridizations of genomic DNA from Bacillus subtilis 168.
+(Submitter supplied) Genomic DNA prepared from B. subtilis 168 cells grown to stationary phase was hybridized to tiling arrays. The data are used in transcriptome studies to compute expression intensities from raw intensity data using a model of shift and drift and correcting for probe affinity variations as described in (Nicolas et al., 2009, Bioinformatics 25, 2341-2347).
+Organism:	Bacillus subtilis subsp. subtilis str. 168
+Type:		Other
+Platform: GPL13168 4 Samples
+FTP download: GEO (PAIR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE27nnn/GSE27419/
+Series		Accession: GSE27419	ID: 200027419
+
+132. Transcriptome analysis of a Bacillus subtilis mutant defective in the transcription termination factor Rho.
+(Submitter supplied) This analysis is part of the study GSE27219, The condition-dependent transcriptome of Bacillus subtilis 168. In this study, 120 transcription units where identified for which transcription did not terminate at any specific site, leading to mRNA extension over long distances with slowly decreasing signal intensity. In most cases, lack of termination and read-through generated antisense transcripts. These findings together with the lack of intrinsic terminators suggested that transcription termination of the 120 transcription units could be mediated by the transcription termination factor Rho. more...
+Organism:	Bacillus subtilis; Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by genome tiling array
+Platform: GPL13168 6 Samples
+FTP download: GEO (PAIR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE27nnn/GSE27303/
+Series		Accession: GSE27303	ID: 200027303
+
+133. The condition-dependent transcriptome of Bacillus subtilis 168
+(Submitter supplied) Recent studies revealed the unsuspected complexity of the bacterial transcriptome but its systematic analysis across many diverse conditions remains a challenge. Here we report the condition-dependent transcriptome of the prototype strain B. subtilis 168 across 104 conditions reflecting the bacterium's life-styles. This data set composed of 269 tiling array hybridizations allowed to observe ~85% of the annotated CDSs expressed in the higher 30% in at least one hybridization and thus provide an excellent coverage of the transcriptome of this bacterium. more...
+Organism:	Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by genome tiling array
+Platform: GPL13149 269 Samples
+FTP download: GEO (PAIR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE27nnn/GSE27219/
+Series		Accession: GSE27219	ID: 200027219
+
+134. Undomesticated Bacillus subtilis SlrA regulon:  wild-type vs two copies of slrA
+(Submitter supplied) Transcriptional profiling of Bacillus subtilis str 3610 cells comparing wild-type to cells containing two copies of the gene slrA.
+Organism:	Bacillus subtilis; Bacillus subtilis subsp. subtilis str. NCIB 3610
+Type:		Expression profiling by array
+Platform: GPL15179 3 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE35nnn/GSE35456/
+Series		Accession: GSE35456	ID: 200035456
+
+135. Gene Expression Profiling of Listeria monocytogenes in monoculture and in co-culture state in the presence of Bacillus subtilis both as planktonic cells and in biofilms.
+(Submitter supplied) To understand the behaviour in terms of special genome components that are expressed by L.monocytogenes in the presence of another bacterium as may be the condition in its natural environments was our objective, for which we have used microarray gene expression at different time intervals of growth from 4hrs to 24 hrs. Expression of L.monocytogenes as co-cultures, both in broth culture state and biofilm state were differentiated to that of 24hrs pure broth culture. more...
+Organism:	Listeria monocytogenes J0161
+Type:		Expression profiling by array
+Platform: GPL13262 8 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE27nnn/GSE27936/
+Series		Accession: GSE27936	ID: 200027936
+
+136. Bacillus subtilis SigA ChIP-chip
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Bacillus subtilis; Bacillus subtilis subsp. subtilis str. 168
+Type:		Genome binding/occupancy profiling by genome tiling array
+Platforms: GPL8486 GPL13168 12 Samples
+FTP download: GEO (PAIR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE27nnn/GSE27652/
+Series		Accession: GSE27652	ID: 200027652
+
+137. Bacillus subtilis SigA ChIP-chip (BsubT1 array)
+(Submitter supplied) Identification of the specific SigA binding regions on the B. subtilis chromosome during exponential, transition and stationary growth phases. The data served to help the analysis of the repertoire of B. subtilis promoters established from transcriptome profiles.
+Organism:	Bacillus subtilis; Bacillus subtilis subsp. subtilis str. 168
+Type:		Genome binding/occupancy profiling by genome tiling array
+Platforms: GPL13168 GPL8486 12 Samples
+FTP download: GEO (PAIR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE27nnn/GSE27650/
+Series		Accession: GSE27650	ID: 200027650
+
+138. Bacillus subtilis SigA ChIP-chip (BsubT2 array)
+(Submitter supplied) Identification of the specific SigA binding regions on the B. subtilis chromosome during exponential, transition and stationary growth phases. The data served to help the analysis of the repertoire of B. subtilis promoters established from transcriptome profiles.
+Organism:	Bacillus subtilis subsp. subtilis str. 168; Bacillus subtilis
+Type:		Genome binding/occupancy profiling by genome tiling array
+Platform: GPL13168 6 Samples
+FTP download: GEO (PAIR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE27nnn/GSE27665/
+Series		Accession: GSE27665	ID: 200027665
+
+139. Heat stress reveals heritable changes in mRNA profile in 4-cell stage embryos of the nematode Caenorhabditis elegans.
+(Submitter supplied) For centuries, scientists have wondered whether the responses of animals and plants to environmental change can be transmitted to subsequent generations.  Lately, there been much interest in the inheritance of information that is not encoded by differences in DNA sequence.  Here we show that transient, mild heat stress results in a heritable change in the messenger RNA profile of early-stage C. elegans embryos. more...
+Organism:	Caenorhabditis elegans
+Type:		Expression profiling by array
+Platform: GPL13914 24 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE30nnn/GSE30666/
+Series		Accession: GSE30666	ID: 200030666
+
+140. Characterization of Lactobacillus Sigma Factors using a Temperature Sensitive E. coli Sigma70 Mutant
+(Submitter supplied) Housekeeping sigma factors in the Sigma70 family, as components of the RNA polymerase holoenzyme, are responsible for regulating transcription of genes related to vegetative growth. While these factors are well understood in model organisms such as Escherchia coli and Bacillus subtilis, little experimental work has focused on the sigma factors in members of the Lactobacillus genus such as Lactobacillus brevis and Lactobacillus plantarum. more...
+Organism:	Escherichia coli str. K-12 substr. MG1655; Escherichia coli; Escherichia coli O157:H7 str. EDL933; Escherichia coli CFT073; Escherichia coli O157:H7 str. Sakai
+Type:		Expression profiling by array
+Platform: GPL13359 6 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE28nnn/GSE28320/
+Series		Accession: GSE28320	ID: 200028320
+
+141. Bacillus subtilis W168, WT vs. delta-rocG delta-gudB
+(Submitter supplied) Transcriptional profile of the rocG gudB double null mutant during log growth phase in LB medium.
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL7420 2 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE34nnn/GSE34383/
+Series		Accession: GSE34383	ID: 200034383
+
+142. Growing pains: natural stress response during growth of B. subtilis (high density time-resolved transcriptome analysis)
+(Submitter supplied) We have determined the time-resolved transcriptome of the model gram-positive organism B. subtilis during growth on rich medium. DNA microarrays were used to monitor gene transcription in 10-minute intervals at 40 consecutive timepoints. From the growth curve and a PCA analysis of all gene expression levels, we identified 4 distinct growth phases: a lag phase, an exponential growth phase, and very clearly separated early and late stationary growth phases
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL6031 118 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE19nnn/GSE19831/
+Series		Accession: GSE19831	ID: 200019831
+
+143. Expression data in wild type and NsrR-null mutant of B. subtilis
+(Submitter supplied) NsrR strongly represses transcription of small numbers of genes in the absence of NO NsrR moderately represses transcription of large numbers of genes in a less NO-sensitive manner
+Organism:	Bacillus subtilis subsp. subtilis str. 168; Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL8889 18 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE33nnn/GSE33289/
+Series		Accession: GSE33289	ID: 200033289
+
+144. Phenotype Enhancement Screen of a Regulatory spx Mutant Unveils a Role for the ytpQ Gene in the Control of Iron Homeostasis.
+(Submitter supplied) Spx is a global regulator of genes that are induced by disulfide stress in Bacillus subtilis. Most of the Spx-regulated genes (SRGs) are of unknown function, but many encode products conserved in low %GC Gram positive bacteria. Using a gene-disruption library of B. subtilis genomic mutations, the SRGs were screened for phenotypes related to Spx-controlled activities, such as growth in minimal medium and sensitivity to methylglyoxal, but nearly all of the SRG mutations showed little if any phenotype. more...
+Organism:	Bacillus subtilis; Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platform: GPL10901 9 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE28nnn/GSE28872/
+Series		Accession: GSE28872	ID: 200028872
+
+145. RNA processing in Bacillus subtilis: Identification of targets of the essential RNase Y
+(Submitter supplied) RNA processing and degradation is initiated by endonucleolytic cleavage of the target RNAs. In many bacteria, this activity is performed by RNase E which is not present in Bacillus subtilis and other Gram-positive bacteria. Recently, the essential endoribonuclease RNase Y has been discovered in B. subtilis. This RNase is involved in the degradation of bulk mRNA suggesting a major role in mRNA metabolism. more...
+Organism:	Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platform: GPL10901 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE30nnn/GSE30430/
+Series		Accession: GSE30430	ID: 200030430
+
+146. Multiplexed RNA structure characterization with selective 2'-hydroxyl acylation analyzed by primer extension sequencing (SHAPE-Seq)
+(Submitter supplied) New regulatory roles continue to emerge for both natural and engineered noncoding RNAs, many of which have specific secondary and tertiary structures essential to their function. Thus there is a growing need to develop technologies that enable rapid characterization of structural features within complex RNA populations. We have developed a high-throughput technique, SHAPE-Seq, that can simultaneously measure quantitative, single nucleotide-resolution secondary and tertiary structural information for hundreds of RNA molecules of arbitrary sequence. more...
+Organism:	Bacillus subtilis
+Type:		Other
+Platform: GPL14181 2 Samples
+FTP download: GEO (SAM) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE31nnn/GSE31573/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA145667
+Series		Accession: GSE31573	ID: 200031573
+
+147. Bacillus subtilis Δ7ECF Pxyl-sigV + xylose vs Δ7ECF Pxyl-sigV - xylose , 168 + lysozyme vs 168 - lysozyme
+(Submitter supplied) To define the ECF sigma sigV - regulated genes during log growth phase in LB media under induction conditions for sigV  The seven extracytoplasmic function (ECF) sigma (σ) factors of Bacillus subtilis are broadly implicated in resistance to antibiotics and other cell envelope stressors mediated, in part, by regulation of cell envelope synthesis and modification enzymes. We here define the regulon of σV as including at least 20 operons many of which are also regulated by σM, σX, or σW. more...
+Organism:	Bacillus subtilis; Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platform: GPL7420 12 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE31nnn/GSE31563/
+Series		Accession: GSE31563	ID: 200031563
+
+148. Distinct roles of ComK1 and ComK2 in gene regulation in Bacillus cereus (overexpressed ComK)
+(Submitter supplied) Comparison of the Bacillus cereus with overexpressed Bacillus subtilis ComK (Bacillus cereus pNWcomKBsu)  vs Bacillus cereus carrying empty plasmid (Bacillus cereus pNW33N)
+Organism:	Bacillus cereus; Bacillus cereus ATCC 14579
+Type:		Expression profiling by array
+Platform: GPL13146 3 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE27nnn/GSE27265/
+Series		Accession: GSE27265	ID: 200027265
+
+149. Cell envelope metabolism in phosphate limited Bacillus subtilis cells
+(Submitter supplied) Investigation of the whole genome expression level changes in phosphate limited Bacillus subtilis wild-type and delta-phoPR cells Investigation of the whole genome expression level changes of wild-type and delta-phoPR Bacills subtilis cells comparing high and low phosphate medium
+Organism:	Bacillus subtilis; Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by genome tiling array
+Platform: GPL8486 18 Samples
+FTP download: GEO (PAIR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE23nnn/GSE23164/
+Series		Accession: GSE23164	ID: 200023164
+
+150. S-bacillithiolation protects against hypochlorite stress in Bacillus subtilis as revealed by transcriptomics and redox proteomics
+(Submitter supplied) Protein S-thiolation is a post-translational thiol-modification that controls redox-sensing transcription factors and protects active site cysteine residues against irreversible oxidation. In Bacillus subtilis the MarR-type repressor OhrR was shown to sense organic hydroperoxides via formation of mixed disulfides with the redox buffer bacillithiol (Cys-GlcN-Malate, BSH), termed as S-bacillithiolation. more...
+Organism:	Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platform: GPL10901 3 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE27nnn/GSE27637/
+Series		Accession: GSE27637	ID: 200027637
+
+151. The GntR family repressor YtrA responds to cell wall antibiotics
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platforms: GPL7420 GPL13726 15 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE30nnn/GSE30003/
+Series		Accession: GSE30003	ID: 200030003
+
+152. Bacillus subtilis CU1065 ramoplanin stimulon
+(Submitter supplied) Transcriptional response of Bacillus subtilis to ramoplanin in wild-type CU1065.
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL13726 12 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE30nnn/GSE30002/
+Series		Accession: GSE30002	ID: 200030002
+
+153. Bacillus subtilis 168 moenomycin stimulon
+(Submitter supplied) Transcriptional response of Bacillus subtilis to moenomycin in wild-type 168.
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL7420 3 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE30nnn/GSE30001/
+Series		Accession: GSE30001	ID: 200030001
+
+154. Reduction in membrane phosphatidylglycerol content leads to daptomycin resistance in Bacillus subtilis
+(Submitter supplied) Transcriptional response of Bacillus subtilis to daptomycin in wild-type and in a daptomycin resistant mutant.
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL7420 8 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE30nnn/GSE30000/
+Series		Accession: GSE30000	ID: 200030000
+
+155. Chromosome segregation in Streptococcus pneumoniae
+(Submitter supplied) Segregation of replicated chromosomes during cell division is an essential process in all organisms. Chromosome segregation is promoted by the action of the DNA-binding ParB protein in the rod-shaped model bacterium Bacillus subtilis. How oval shaped bacteria, such as the human pathogen Streptococcus pneumoniae, efficiently segregate their chromosomes is poorly understood. Here, we show that the pneumococcal homolog of ParB is enriched at four centromere-like DNA sequences (parS sites) that are present near the origin of replication.
+Organism:	Streptococcus pneumoniae; Streptococcus pneumoniae D39
+Type:		Genome binding/occupancy profiling by array
+Platform: GPL11484 1 Sample
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE26nnn/GSE26839/
+Series		Accession: GSE26839	ID: 200026839
+
+156. Transcriptome analysis of Bacillus subtilis in response to physical plasma treatment
+(Submitter supplied) In this study, we introduce for the first time a growth chamber system suitable for physical plasma treatment of bacteria in liquid medium. Bacillus subtilis 168 cells were treated with argon plasma in order to investigate their specific stress response usong a proteomic and transcriptomic approach. The treatment with three different discharge voltages revealed not only growth differences, but also clear cellular stress responses. more...
+Organism:	Bacillus subtilis subsp. subtilis str. 168; Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL10901 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE27nnn/GSE27113/
+Series		Accession: GSE27113	ID: 200027113
+
+157. Regulon prediction of the sporulation factors Spo0A, SigF, SigE, and SigG in Clostridium acetobutylicum ATCC 824
+(Submitter supplied) Clostridium acetobutylicum, the endospore-forming anaerobe best known for its ABE (acetone-butanol-ethanol) fermentation, has received renewed attention recently for the biological production of butanol, both for bulk chemical production and as a potential biofuel. With butanol production in mind, most of the recent research on C. acetobutylicum has focused on increasing butanol production, tolerance to butanol, and optimizing it for various substrates. more...
+Organism:	Clostridium acetobutylicum ATCC 824
+Type:		Expression profiling by array
+Platform: GPL10908 24 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE24nnn/GSE24103/
+Series		Accession: GSE24103	ID: 200024103
+
+158. Bacillus subtilis CU1065: WT vs fur, fur vs fur fsrA, fur vs fur fbpAB, fur vs fur fbpC, and fur vs fur fbpABC
+(Submitter supplied) Global tranascriptional profiling of Bacillus subtilis cells comparing fur mutant to mutants of the iron-sparing response: fur fsrA double mutant, fur fbpAB triple mutant, fur fbpC double mutant, and  fur fbpABC quadruple mutant Abstract of associated manuscript: The Bacillus subtilis ferric uptake regulator (Fur) protein is the major sensor of cellular iron status. When iron is limiting for growth, derepression of the Fur regulon increases the cellular capacity for iron uptake and mobilizes an iron-sparing response mediated, in large part, by a small non-coding RNA named FsrA. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL7420 15 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE27nnn/GSE27416/
+Series		Accession: GSE27416	ID: 200027416
+
+159. Role of Rok in biofilm structure development of Bacillus subtilis 168
+(Submitter supplied) Comparison of the B subtilis rok mutant vs wild type (sample 1-4) and rok-comK mutant vs comK mutant (sample 5-8)
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL6031 8 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE22nnn/GSE22370/
+Series		Accession: GSE22370	ID: 200022370
+
+160. Study of ecs mutation
+(Submitter supplied) Ecs is an ATP-binding cassette (ABC) transporter present in aerobic and facultative anaerobic gram-positive Firmicutes. Inactivation of Bacillus subtilis Ecs causes pleiotropic changes in the bacterial phenotype including inhibition of intramembrane proteolysis. The molecule(s) transported by Ecs is (are) still unknown. In this study we mutated the ecsAB operon in two Staphylococcus aureus strains, Newman and LS-1. more...
+Organism:	Staphylococcus aureus
+Type:		Expression profiling by array
+Platform: GPL10537 8 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE22nnn/GSE22353/
+Series		Accession: GSE22353	ID: 200022353
+
+161. Chromatin immunoprecipitation of Rok-myc and Hbs-myc in Bacillus subtilis
+(Submitter supplied) The Rok protein of Bacillus subtilis was identified as a negative regulator of competence development. Here we show that Rok binds to extended areas of the B. subtilis genome that are characterized by a high A+T content and are known or believed to have been acquired by horizontal gene transfer, e.g. mobile elements. A deletion of rok results in higher excision of one such element, ICEBs1. The preferential association of Rok with DNA with a high A+T content is also observed in a Gram-negative host, E. more...
+Organism:	Bacillus subtilis subsp. subtilis str. 168; Escherichia coli
+Type:		Genome binding/occupancy profiling by array
+Platform: GPL10707 6 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE23nnn/GSE23199/
+Series		Accession: GSE23199	ID: 200023199
+
+162. Genome-wide binding of replication initiation proteins in Bacillus subtilis
+(Submitter supplied) Initiation of DNA replication requires binding of the initiator protein, DnaA, to specific binding sites in the chromosomal origin of replication, oriC. In low G+C Gram-positive bacteria, the primosomal proteins DnaD and DnaB, in conjunction with loader ATPase DnaI, load the replicative helicase at oriC, and this depends on DnaA. DnaD and DnaB are also required to load the replicative helicase outside of oriC during replication restart, in a DnaA-independent manner. more...
+Organism:	Escherichia coli; Bacillus subtilis subsp. subtilis str. 168; Bacillus subtilis
+Type:		Genome binding/occupancy profiling by array
+Platform: GPL10707 24 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE23nnn/GSE23686/
+Series		Accession: GSE23686	ID: 200023686
+
+163. Transcriptome analysis of glucose starved Bacillus subtilis cells
+(Submitter supplied) In this study, temporal changes in the proteome, transcriptome and extracellular metabolome of B. subtilis caused by glucose starvation were monitored. For proteomic profiling, a combination of in vivo metabolic labeling and shot gun mass spectrometric analysis was carried out for five different proteomic subfractions (i. cytosolic, ii. extracellular, iii. membrane, iv. integral membrane, and v. surface proteome fraction) leading to the identification of about 52% of the predicted proteome of B. more...
+Organism:	Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platform: GPL10901 10 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE24nnn/GSE24058/
+Series		Accession: GSE24058	ID: 200024058
+
+164. Association of replication restart proteins with sites of increased transcriptional activity in Bacillus subtilis
+(Submitter supplied) Antibodies against DnaD and DnaB were used to immunoprecipitate genome bound complexes of these proteins in fast growing and slow growing cells as well as in two strains with a constitutively induced Pxis promoter or repressed Pxis promoter. CHIP-chip analysis was then carried out to determine their sites of interaction in vivo. CHI-chip analysis was carried out by Oxford Gene Technology (OGT) wwho also designed and prepared the arrays.
+Organism:	Bacillus subtilis subsp. subtilis str. 168; Bacillus subtilis
+Type:		Genome binding/occupancy profiling by array
+Platform: GPL11259 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE25nnn/GSE25736/
+Series		Accession: GSE25736	ID: 200025736
+
+165. Expression analysis of GFP+ and GFP- populations of B.subtilis strain DS901
+(Submitter supplied) Investigation of whole genome gene expression level changes in GFP+ and GFP- populations of B.subtilis strain DS901
+Organism:	Bacillus subtilis; Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platform: GPL8614 8 Samples
+FTP download: GEO (PAIR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE16nnn/GSE16345/
+Series		Accession: GSE16345	ID: 200016345
+
+166. L-Glutamine metabolism and its regulation in C. glutamicum
+(Submitter supplied) Corynebacterium glutamicum, a gram-positive soil bacterium used for the industrial production of amino acids such as L-glutamate and L-lysine, is able to use a number of different nitrogen sources, such as ammonium, urea, or creatinine. In this communication, we show that L-glutamine serves as an excellent nitrogen source for C. glutamicum and allows similar growth rates in glucose minimal medium as ammonium. more...
+Organism:	Corynebacterium glutamicum ATCC 13032
+Type:		Expression profiling by array
+Platform: GPL9860 3 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE19nnn/GSE19779/
+Series		Accession: GSE19779	ID: 200019779
+
+167. Bacillus subtilis WN715 vs WN716 expression in early stationary phase.
+(Submitter supplied) Five batch cultures of Bacillus subtilis were subjected to laboratory evolution for 6,000 generations under conditions repressing sporulation in complex liquid medium containing glucose. Between 1,000 and 2,000 generations, variants with a distinct small-colony morphology arose and swept through four of the five populations.  To understand the nature of adaptation in these variants, individual strains were isolated from one population before (WN715) and after (WN716) the sweep. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL10891 2 Samples
+FTP download: GEO (XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE24nnn/GSE24018/
+Series		Accession: GSE24018	ID: 200024018
+
+168. Bacillus subtilis 168, WT  vs. ΔMWX, WT vs. Δ7ECF, Δ7ECF vs. ΔMWX.
+(Submitter supplied) Bacillus subtilis encodes seven extracytoplasmic function (ECF) sigma factors. Three (sigma M, sigma W and simga X) mediate responses to cell envelope active antibiotics. The functions of sigma Y, sigma Z, sigma V, and YlaC remain largely unknown, and strong inducers of these sigma factors and their regulons have yet to be defined. Here, we define transcriptomic and phenotypic differences under non-stress conditions between strains carrying deletions in all seven ECF sigma factor genes (Δ7ECF), a  sigMWX triple mutant (∆MWX), and the parental 168 strain. more...
+Organism:	Bacillus subtilis; Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platform: GPL188 12 Samples
+FTP download: GEO (GPR, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE22nnn/GSE22930/
+Series		Accession: GSE22930	ID: 200022930
+
+169. Paralogous MarR/DUF24-family repressors YodB and CatR control expression of the catechol dioxygenase CatE in Bacillus subtilis
+(Submitter supplied) The redox-sensing MarR/DUF24-type repressor YodB controls expression of the azoreductase AzoR1 and the nitroreductase YodC that are involved in detoxification of quinones and diamide in Bacillus subtilis. In the present paper, we identified YodB and its paralog YvaP (CatR) as repressors of the yfiDE (catDE) operon encoding a catechol-2,3-dioxygenase that also contributes to quinone resistance. Inactivation of both paralogs, CatR and YodB, results in full derepression of catDE transcription. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL3502 2 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE22nnn/GSE22603/
+Series		Accession: GSE22603	ID: 200022603
+
+170. Time course of manganese treatment in LB
+(Submitter supplied) The SOS response to DNA damage in bacteria is a well-known component of the complex transcriptional responses to genotoxic environmental stresses such as exposure to reactive oxygen species, alkylating agents, and many of the antibiotics targeting DNA replication. However, bacteria such as Bacillus subtilis also respond to conditions that perturb DNA replication via a transcriptional response mediated by the replication initiation protein DnaA. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL10527 36 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE22nnn/GSE22296/
+Series		Accession: GSE22296	ID: 200022296
+
+171. Light activation of the sigmaB-mediated general stress-response of Bacillus subtilis
+(Submitter supplied) The sigma(B)-dependent general stress response in the common soil bacterium Bacillus subtilis can be elicited by a range of stress factors, such as starvation or an ethanol-, salt-, or heat-shock, via a complex upstream signaling cascade. Additionally, sigma(B) can be activated by blue light, via the phototropin homologue YtvA, a component of the environmental branch of the signaling cascade. The genome-wide transcriptomes of B. more...
+Organism:	Bacillus subtilis; Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platform: GPL9817 16 Samples
+FTP download: GEO (PAIR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE19nnn/GSE19464/
+Series		Accession: GSE19464	ID: 200019464
+
+172. Transcriptome analysis of Bacillus subtilis salt stress adaptation
+(Submitter supplied) Whole-genome microarray technology and state-of-the-art proteomic techniques were applied to provide a global and time-resolved picture of the physiological response of B. subtilis cells exposed to a severe and sudden osmotic up-shift. This combined experimental approach provided quantitative data for 3961 mRNA profiles, 590 expression profiles of proteins detected in the cytosol and 383 expression profiles of proteins detected in the membrane fraction. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL3502 15 Samples
+FTP download: GEO (CSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE18nnn/GSE18345/
+Series		Accession: GSE18345	ID: 200018345
+
+173. Benzoate induced transcriptomic response in Bacillus subtilis
+(Submitter supplied) Bacillus subtilis strain AG174 was grown in the presence and absence of  benzoate (30 mM). Benzoate was used in order to equalize the external and internal pH. The cultures were grown at external pH 7.0, and the addition of benzoate did not change the external pH. Microarray analysis was performed on cDNA synthesized from bacterial RNA. Real-time PCR of highly up-regulated genes confirmed the results of the microarray. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL343 8 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE12nnn/GSE12263/
+Series		Accession: GSE12263	ID: 200012263
+
+174. Autonomous plasmid-like replication of a conjugative transposon
+(Submitter supplied) Integrative and conjugative elements (ICEs), a.k.a., conjugative transposons, are mobile genetic elements involved in many biological processes, including the spread of antibiotic resistance. Unlike conjugative plasmids that are extra-chromosomal and replicate autonomously, ICEs are integrated in the chromosome and replicate passively during chromosomal replication. It is generally thought that ICEs do not replicate autonomously. more...
+Organism:	Bacillus subtilis subsp. subtilis str. 168; Bacillus subtilis
+Type:		Genome binding/occupancy profiling by array; Genome variation profiling by array
+Platforms: GPL9270 GPL4694 26 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE18nnn/GSE18380/
+Series		Accession: GSE18380	ID: 200018380
+
+175. ChIP of ICEBs1 induced Bacillus subtilis
+(Submitter supplied) Examine possible association of Ssb, PolC, DnaC, PcrA with ICEBs1 in RapI-induced Bacillus subtilis
+Organism:	Bacillus subtilis; Bacillus subtilis subsp. subtilis str. 168
+Type:		Genome binding/occupancy profiling by array
+Platform: GPL4694 4 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE18nnn/GSE18228/
+Series		Accession: GSE18228	ID: 200018228
+
+176. Genomic microarrays of RapI-induced Bacillus subtilis
+(Submitter supplied) Examine increase in gene copy number after induction of ICEBs1 by RapI expression
+Organism:	Bacillus subtilis subsp. subtilis str. 168; Bacillus subtilis
+Type:		Genome variation profiling by array
+Platform: GPL4694 8 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE18nnn/GSE18234/
+Series		Accession: GSE18234	ID: 200018234
+
+177. Genomic microarrays of RapI-induced Bacillus subtilis effect of pcrA
+(Submitter supplied) Examine increase in gene copy number after induction of ICEBs1 by RapI expression
+Organism:	Bacillus subtilis
+Type:		Genome variation profiling by array
+Platform: GPL9270 14 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE18nnn/GSE18238/
+Series		Accession: GSE18238	ID: 200018238
+
+178. Transcriptome profiles of a riboflavin-producing B.subtilis RH33 and wild type B.subtilis 168
+(Submitter supplied) The transcriptome profiles of a riboflavin-producing recombinant Bacillus subtilis RH33 and wild type Bacillus subtilis 168 were compared using DNA microarrays to identify the target genes for further enhancing riboflavin production.
+Organism:	Bacillus subtilis subsp. subtilis str. 168; Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL343 4 Samples
+FTP download: GEO (CEL, CHP) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE12nnn/GSE12873/
+Series		Accession: GSE12873	ID: 200012873
+
+179. B. subtilis: temporal expression response to amino acid treatment
+(Submitter supplied) Microorganisms can restructure their transcriptional output to adapt to environmental conditions by sensing endogenous metabolite pool. In this study, an Agilent customized microarray representing approximately 4,106 genes was used to study temporal transcript profiles of Bacillus subtilis in response to valine, glutamate and glutamine pulses. Amino-acid-regulated genes were identified having significantly changed expression at one or more time points in response to pulses of valine, glutamate, and glutamine, respectively, and Val-, Glu and Gln-specific genes were further distinguished from them. more...
+Organism:	Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platform: GPL8896 13 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE17nnn/GSE17243/
+Series		Accession: GSE17243	ID: 200017243
+
+180. Effects on expression profile of YabA-null cells after replication arrest 
+(Submitter supplied) To compare the transcriptional effects of replication arrest that are dependent on YabA we compared the transcriptional profiles of yabA null and yabA+ cells after treatment with the replication inhibitor HPUra. To avoid secondary effects of replication overinitiation that the yabA-null strain exhibits, we did all experiments in oriC-null cells
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL8889 12 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE17nnn/GSE17829/
+Series		Accession: GSE17829	ID: 200017829
+
+181. DnaN overexpressing cells and YabA-null cells
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array; Genome variation profiling by array
+Platforms: GPL3655 GPL8889 16 Samples
+FTP download: GEO (GPR, XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE17nnn/GSE17884/
+Series		Accession: GSE17884	ID: 200017884
+
+182. DnaN overexpression does not affect replication in oriN cells
+(Submitter supplied) overexpressing DnaN did not affect the genomic DNA pattern in a strain that replicated form the plasmid origin of replication oriN and is deleted for the endogenous origin of replication oriC
+Organism:	Bacillus subtilis
+Type:		Genome variation profiling by array
+Platform: GPL3655 2 Samples
+FTP download: GEO (XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE17nnn/GSE17809/
+Series		Accession: GSE17809	ID: 200017809
+
+183. DnaN causes overinitiation of DNA replication
+(Submitter supplied) Overexpression of DnaN causes the accumulation of origin of replication proximal DNA.
+Organism:	Bacillus subtilis
+Type:		Genome variation profiling by array
+Platform: GPL3655 2 Samples
+FTP download: GEO (XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE17nnn/GSE17808/
+Series		Accession: GSE17808	ID: 200017808
+
+184. Gene regulation in Bacillus subtilis by the compatible solute glycine betaine
+(Submitter supplied) Glycine betaine (GB) is a potent osmoprotectant for salt stressed Bacillus subtilis cells, which possess three high-affinity uptake systems for GB. OpuA is the dominant transporter for this compatible solute. Northern blot analysis, primer extension experiments and opuA-treA reporter gene fusion studies demonstrated that opuA expression is strongly induced at high osmolality from a single SigA-type promoter. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL188 12 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE17nnn/GSE17435/
+Series		Accession: GSE17435	ID: 200017435
+
+185. The Transcriptionally Active Regions in the Genome of Bacillus subtilis
+(Submitter supplied) The majority of all genes have so far been identified and annotated systematically through in silico gene finding.  Here we report the finding of 3,217 strand-specific Transcriptionally Active Regions (TARs) in the genome of Bacillus subtilis by the use of tiling arrays. We have measured the genome-wide expression during mid-exponential growth on rich (LB) and minimal  (M9) medium. The identified TARs account for 81.5% of the genes as they are currently annotated and additionally we find 44 novel protein-coding genes, 85 putative non-coding RNAs (ncRNAs) and 184 antisense transcripts. more...
+Organism:	Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by genome tiling array
+Platform: GPL8486 10 Samples
+FTP download: GEO (PAIR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE16nnn/GSE16086/
+Series		Accession: GSE16086	ID: 200016086
+
+186. Bacillus subtilis: Smc-TAP ChIP-on-chip
+(Submitter supplied) Genome-wide analysis of Smc distribution using ChIP-on-chip ChIP DNA versus Input DNA  Keywords: ChIP-chip
+Organism:	Bacillus subtilis
+Type:		Genome binding/occupancy profiling by genome tiling array
+Platform: GPL8147 1 Sample
+FTP download: GEO (GFF, PAIR, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE14nnn/GSE14693/
+Series		Accession: GSE14693	ID: 200014693
+
+187. Base and acid resistance of B. subtilis associated with transcriptomic responses
+(Submitter supplied) Gene expression profiles of Bacillus subtilis strain AG174 were compared as a function of steady-state external pH during growth with aeration. Aerated overnight cultures were diluted 1:500 and incubated in 250 mL baffled flasks containing potassium-modified Luria-Bertani medium (LBK) buffered with 50 mM HOMOPIPES at pH 6.0, pH 7.0, and pH 9.0. Tubes were incubated at 37°C with aeration (260 rpm) to an optical density at 600 nm of 0.2. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL343 15 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE11nnn/GSE11810/
+Series		Accession: GSE11810	ID: 200011810
+
+188. The global expression profile of Bacillus subtilis to the toxic carbonyls methylglyoxal (MG) and formaldehyde (FA)
+(Submitter supplied) Abstract of associated menuscript; Quinones and alpha,beta-unsaturated carbonyls are naturally occurring electrophiles that target cysteine residues via thiol-(S)-alkylation. We analyzed the global expression profile of Bacillus subtilis to the toxic carbonyls methylglyoxal (MG) and formaldehyde (FA). Both carbonyl compounds cause a stress response characteristic for thiol-reactive electrophiles as revealed by the induction of the Spx, CtsR, CymR, PerR, ArsR, CzrA, CsoR and SigmaD regulons. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL3502 9 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE13nnn/GSE13925/
+Series		Accession: GSE13925	ID: 200013925
+
+189. Daptomycin stimulon in Bacillus subtilis W168
+(Submitter supplied) Abstract of associated manuscript: Daptomycin is the first of a new class of cyclic lipopeptide antibiotics used against multidrug-resistant Gram-positive pathogens. The proposed mechanism of action involves disruption of the functional integrity of the bacterial membrane in a Ca2+-dependent manner. We have used transcriptional profiling to demonstrate that treatment of Bacillus subtilis with daptomycin strongly induces the lia operon including the autoregulatory LiaRS two-component system (homologous to Staphylococcus aureus VraSR). more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL7420 3 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE13nnn/GSE13900/
+Series		Accession: GSE13900	ID: 200013900
+
+190. Transcriptional activity of Bacillus subtilis exposed to lethal heat stress
+(Submitter supplied) Transcriptional profiling of Bacillus subtilis to lethal heat stress by systematic sampling of bacterial cell suspensions exposed to gradually increasing temperatures.  Keywords: Stress response
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL7146 19 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE12nnn/GSE12372/
+Series		Accession: GSE12372	ID: 200012372
+
+191. Sigma(M) regulated genes under antibiotic stress (vancomycin)
+(Submitter supplied) Abstract of associated manuscript: The Bacillus subtilis extracytoplasmic function (ECF) sigma(M) factor is activated by cell envelope stress elicited by antibiotics, and by acid, heat, ethanol and superoxide stresses. Here, we have used several complementary approaches to identify genes controlled by sigma(M). In many cases, expression is only partially dependent on sigma(M) because of both overlapping promoter recognition with other ECF sigma factors and the presence of additional promoter elements. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL7420 14 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE13nnn/GSE13820/
+Series		Accession: GSE13820	ID: 200013820
+
+192. Comparison of gene expression after induction of DNA endonuclease in strains either containing a cut site or not
+(Submitter supplied) Investigating the induction of the SOS response after the introduction of a single dsDNA break per genome by expressing the SceI endonuclease. The endonuclease is under the control of a xylose-inducible promoter.
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL7618 6 Samples
+FTP download: GEO (XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE13nnn/GSE13545/
+Series		Accession: GSE13545	ID: 200013545
+
+193. Comparison of gene expression after induction of DNA endonuclease
+(Submitter supplied) Investigating the induction of the SOS response after the introduction of a single dsDNA break per genome by expressing an endonuclease. The endonuclease is under the control of a xylose-inducible promoter.
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL7618 6 Samples
+FTP download: GEO (XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE13nnn/GSE13544/
+Series		Accession: GSE13544	ID: 200013544
+
+194. A study of the transcriptional response to a single double-strand break in Bacillus subtilis
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL7618 9 Samples
+FTP download: GEO (XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE13nnn/GSE13694/
+Series		Accession: GSE13694	ID: 200013694
+
+195. Global profiling of B. subtilis comparing wild-type to mutants with altered cytoplasmic membrane composition
+(Submitter supplied) The Bacillus subtilis membrane contains diacylglycerol-based lipids with at least five distinct headgroups that impart distinct physical and chemical properties to the lipid bilayer. Here, we describe the phenotypic characterization of mutant strains lacking one or more of the following lipids: glycolipids (ugtP mutants), phosphatidylethanolamine (pssA and psd mutants), lysylphosphatidylglycerol (mprF), and cardiolipin (ywnE and ywjE). more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL7420 12 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE13nnn/GSE13036/
+Series		Accession: GSE13036	ID: 200013036
+
+196. Comparative Genomics of D. ethenogenes 195 and an Unsequenced Dehalococcoides-Containing Enrichment Culture 
+(Submitter supplied) Tetrachloroethene (PCE) and trichloroethene (TCE) are prevalent groundwater contaminants that can be completely reductively dehalogenated by Dehalococcoides organisms. A Dehalococcoides-containing microbial consortium (ANAS) with the ability to degrade TCE to ethene, an innocuous end-product, was previously enriched from contaminated soil. A whole-genome photolithographic microarray was developed based on the genome of Dehalococcoides ethenogenes 195 (strain 195). more...
+Organism:	Dehalobacter restrictus; Dehalococcoides; Dehalococcoides mccartyi 195
+Type:		Genome variation profiling by array
+Platform: GPL6116 9 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE9nnn/GSE9612/
+Series		Accession: GSE9612	ID: 200009612
+
+197. Bacillus subtilis 168 cells: ccpN mutant and ccpN-yqfL double mutant analysis
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Bacillus subtilis subsp. subtilis str. 168; Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL188 12 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE11nnn/GSE11937/
+Series		Accession: GSE11937	ID: 200011937
+
+198. Bacillus subtilis 168 cells: wild-type vs. (ccpN-yqfL) double mutant
+(Submitter supplied) Global transcriptional profiling of Bacillus subtilis cells comparing wild-type to a (ccpN-yqfL) double mutant.   Abstract of the associated publication (article accepted): The transcriptional regulator CcpN of Bacillus subtilis has been recently characterized as a repressor of two gluconeogenic genes, gapB and pckA, and of a small non-coding regulatory RNA, sr1, involved in arginine catabolism. Deletion of ccpN impairs growth on glucose and strongly alters the distribution of intracellular fluxes, rerouting the main glucose catabolism from glycolysis to the pentose phosphate (PP) pathway. more...
+Organism:	Bacillus subtilis; Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platform: GPL188 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE11nnn/GSE11876/
+Series		Accession: GSE11876	ID: 200011876
+
+199. Bacillus subtilis 168 cells: wild-type vs. ccpN (non polar)
+(Submitter supplied) Global transcriptional profiling of Bacillus subtilis cells comparing wild-type to a ccpN (yqzB) non polar mutant.  Abstract of associated publication (article accepted): The transcriptional regulator CcpN of Bacillus subtilis has been recently characterized as a repressor of two gluconeogenic genes, gapB and pckA, and of a small non-coding regulatory RNA, sr1, involved in arginine catabolism. Deletion of ccpN impairs growth on glucose and strongly alters the distribution of intracellular fluxes, rerouting the main glucose catabolism from glycolysis to the pentose phosphate (PP) pathway. more...
+Organism:	Bacillus subtilis subsp. subtilis str. 168; Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL188 8 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE11nnn/GSE11873/
+Series		Accession: GSE11873	ID: 200011873
+
+200. Bacillus subtilis tagD mutant
+(Submitter supplied) The bacterial cell wall has been a celebrated target for antibiotics and holds real promise as a target for the discovery of new chemical matter to surmount pervasive multi-drug resistance among pathogenic bacteria.  While the walls of Gram-negative bacteria are composed primarily of peptidoglycan, those of Gram-positives are more substantial and contain, in addition, large amounts of the polymer teichoic acid, covalently attached to peptidoglycan. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL5042 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE7nnn/GSE7373/
+Series		Accession: GSE7373	ID: 200007373
+
+201. Time-series of transcriptome analysis of Bacillus subtilis response to 3 mM potassium sorbate
+(Submitter supplied) The weak organic acid sorbic acid is a commonly used food preservative, as it inhibits the growth of bacteria, yeasts and molds. We have used genome-wide transcriptional profiling of Bacillus subtilis cells during mild sorbic acid stress to reveal the growth inhibitory activity of this preservative and to identify potential resistance mechanisms. Our analysis demonstrated that sorbic acid stressed cells induce responses normally seen upon nutrient limitation. more...
+Organism:	Bacillus subtilis subsp. subtilis str. 168; Bacillus subtilis
+Type:		Expression profiling by array
+Dataset: GDS3152 Platform: GPL6257 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE9nnn/GSE9823/
+Series		Accession: GSE9823	ID: 200009823
+
+202. Genome and transcriptome divergence in Bacillus subtilis after 6,000 generations of evolution
+(Submitter supplied) Ten populations were evolved for 6,000 generations. Five had strong selection for sporulation, imposed partially by their cultivation in sporulation-inducing medium, while the other five populations had relaxed selection for sporulation, by cultivating them in sporulation-repressing medium.  Batch cultures were diluted 1:100 daily for approximately 892 days. In the five populations with relaxed selection for sporulation, sporulation ability was eventually lost. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array; Genome variation profiling by array
+Platform: GPL3502 22 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE4nnn/GSE4469/
+Series		Accession: GSE4469	ID: 200004469
+
+203. Subpopulation array data, Veening et al.
+(Submitter supplied) The transcriptome profiles of sporulating vs non-sporulating cells, within an isogenic culture were compared. Keywords: isogenic subpopulation comparison Bacillus subtilis sporulation
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL6031 1 Sample
+FTP download: GEO (TXT, XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE9nnn/GSE9266/
+Series		Accession: GSE9266	ID: 200009266
+
+204. Secretion stress caused by overexpression of heterologous α-amylase in Bacillus subtilis
+(Submitter supplied) Transcriptome analysis was used to investigate the global stress response of the Gram-positive bacterium Bacillus subtilis caused by overproduction of the well-secreted AmyQ α-amylase from Bacillus amyloliquefaciens. Analyses of the control and overproducing strains were carried out at the end of exponential growth and in stationary phase, when protein secretion from B. subtilis is optimal. Among the genes that showed increased expression were htrA and htrB, which are part of the CssRS regulon that responds to high-level protein secretion and heat stress. more...
+Organism:	Bacillus subtilis; Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platform: GPL188 18 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE8nnn/GSE8014/
+Series		Accession: GSE8014	ID: 200008014
+
+205. Effects of the Structural Maintenance of Chromosomes (SMC) protein on gene expression in Bacillus subtilis
+(Submitter supplied) We monitored changes in Bacillus subtilis global gene expression in response to deletion or disruption of smc or ftsY. Keywords: genetic modification
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platforms: GPL3949 GPL3950 19 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE5nnn/GSE5210/
+Series		Accession: GSE5210	ID: 200005210
+
+206. Gene expression during Bacillus subtilis spore germination and outgrowth (t=0-100)
+(Submitter supplied) Bacillus subtilis forms dormant spores upon nutrient depletion. Under favorable environmental conditions, the spore breaks its dormancy and resumes growth in a process called spore germination and outgrowth. To elucidate the physiological processes that occur during the transition of the dormant spore to an actively growing vegetative cell, we studied this process in a time-dependent manner by a combination of microscopy, analysis of extracellular metabolites and a genome-wide analysis of transcription. more...
+Organism:	Bacillus subtilis subsp. subtilis str. 168
+Type:		Expression profiling by array
+Platform: GPL4415 14 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE6nnn/GSE6865/
+Series		Accession: GSE6865	ID: 200006865
+
+207. Comparison of gene expression in spo0J mutant and wild-type B. subtilis
+(Submitter supplied) We investigated the genome-wide DNA binding of the chromosome partitioning and sporulation protein and ParB family member Spo0J in Bacillus subtilis using chromatin immunoprecipitation and DNA microarrays.  We identified ten parS loci to which Spo0J binds, two of which were unexpectedly distant (>1 Mb) from the origin of replication.  We used all ten sites to refine the consensus sequence for parS.  We found that Spo0J spreads along the DNA around each site.  Binding was near maximal levels up to 1.6 kb away from parS, and significantly above background as far away as 18 kb.  Deletion of soj (parA) had no detectable effect on spreading.  In contrast, the spo0J93 allele appeared to cause a significant decrease in spreading in vivo, without significantly affecting the DNA binding affinity in vitro.  spo0J93 causes a phenotype similar to that of a spo0J null mutant and alters the region thought to be involved in interaction between Spo0J dimers.  Our findings indicate that spreading is important for in vivo function of Spo0J.  Gene expression in areas near parS sites was similar in wild-type and a spo0J null mutant, indicating that binding and spreading of Spo0J on DNA does not silence transcription of nearby genes. Keywords: genetic modification
+Organism:	Bacillus subtilis subsp. subtilis str. 168; Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL4694 3 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE6nnn/GSE6598/
+Series		Accession: GSE6598	ID: 200006598
+
+208. M-CGH data from Bacillus subtilis strains from both subspecies and Bacillus vallismortis
+(Submitter supplied) This series represents the work described in the publication Bacillus subtilis Genome Diversity by Earl et al. (Journal of Bacteriology, accepted) Keywords: comparative genomic hybridization
+Organism:	Bacillus subtilis; Bacillus subtilis subsp. subtilis; Bacillus vallismortis; Bacillus subtilis subsp. spizizenii
+Type:		Genome variation profiling by array
+Platform: GPL3665 61 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE6nnn/GSE6498/
+Series		Accession: GSE6498	ID: 200006498
+
+209. Interference of PrfA with glucose uptake
+(Submitter supplied) Listeria monocytogenes (Lm) strains expressing high levels of the virulence regulator PrfA (mutant PrfA* or wild-type PrfA) show strong growth inhibition in minimal media when supplemented with glucose but not when supplemented with glucose-6-phosphate compared to the isogenic strains expressing low levels of PrfA. A significantly reduced rate of glucose uptake is observed in the PrfA* over-expressing strain growing in LB supplemented with glucose. more...
+Organism:	Listeria monocytogenes
+Type:		Expression profiling by array
+Platform: GPL3517 18 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE4nnn/GSE4414/
+Series		Accession: GSE4414	ID: 200004414
+
+210. Analysis of rap overexpression and phr deletion on gene expression in Bacillus subtilis
+(Submitter supplied) We monitored changes in Bacillus subtilis global gene expression in response to overexpression of rapF, rapH, rapJ, or rapK or deletion of phrC, phrF, or phrK. Keywords: genetic modifications
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platforms: GPL3664 GPL3665 24 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE4nnn/GSE4670/
+Series		Accession: GSE4670	ID: 200004670
+
+211. Analysis of the transcriptional response to DNA damage and replication arrest
+(Submitter supplied) Our results indicate that the transcriptional responses to HPUra, MMC, and UV are only partially overlapping. recA is the major transcriptional regulator under all of the tested conditions and LexA appears to directly repress expression of 63 genes in 26 operons, including the 18 operons previously identified as LexA targets.  MMC and HPUra treatments caused induction of an integrative and conjugative element (ICEBs1) and resident prophages (PBSX and SPß), which affected expression of many host genes. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+5 related Platforms 72 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE4nnn/GSE4673/
+Series		Accession: GSE4673	ID: 200004673
+
+212. Global transcriptional response of Bacillus subtilis to peroxide stress
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL2760 78 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE4nnn/GSE4350/
+Series		Accession: GSE4350	ID: 200004350
+
+213. Listeria host responses
+(Submitter supplied) This logical set encompases several 8hr timecourses (0,1,2,4,8 hrs) and their replicates.  All correspond to treatments of bone marrow derived macrophages. Abstract: Innate and adaptive immunity depends critically on host recognition of pathogen-associated molecules. Toll-like receptors (TLRs) are key mediators of pathogen surveillance at the cell or phagocytic vacuole surface. However, mechanisms underlying recognition of pathogens in other cellular compartments remain unclear, and responses elicited by cytosolic challenge are poorly characterized. more...
+Organism:	Mus musculus
+Type:		Expression profiling by array
+Platforms: GPL3329 GPL3328 85 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE3nnn/GSE3991/
+Series		Accession: GSE3991	ID: 200003991
+
+214. Genome-wide transcriptional analysis of the phosphate starvation stimulon of Bacillus subtilis
+(Submitter supplied) Bacillus subtilis responds to phosphate starvation stress by inducing the PhoP and SigB regulons. While the PhoP regulon provides a specific response to phosphate starvation stress, maximizing the acquisition of phosphate (Pi) from the environment and reducing the cellular requirement for this essential nutrient, the SigB regulon provide non-specific resistance to stress by protecting essential cellular components such as DNA and membranes. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL188 39 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE2nnn/GSE2667/
+Series		Accession: GSE2667	ID: 200002667
+
+215. Bacillus PerR set
+(Submitter supplied) Comparison between perR and wild type Bacillus Set of arrays organized by shared biological context, such as organism, tumors types, processes, etc. Keywords: Logical Set
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL2760 6 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE3nnn/GSE3139/
+Series		Accession: GSE3139	ID: 200003139
+
+216. Bacillus Stress Responses
+(Submitter supplied) Bacillus subtilis exhibits a complex adaptive response to low levels of peroxides. We used global transcriptional profiling to monitor the magnitude and kinetics of changes in the mRNA population after exposure to either hydrogen peroxide (H2O2) or tert-butyl peroxide (t-buOOH). The peroxide stimulons could be largely accounted for by three regulons controlled by the PerR, B, and OhrR transcription factors. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL2760 72 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE3nnn/GSE3138/
+Series		Accession: GSE3138	ID: 200003138
+
+217. Leucine starvation series
+(Submitter supplied) These data represent the ratios of charged to total tRNA for E. coli auxotrophic strain CP78 during starvation for leucine over a time course of 32 minutes. Keywords: time-course
+Organism:	Saccharomyces cerevisiae; Bacillus subtilis; Escherichia coli
+Type:		Expression profiling by array
+Platform: GPL1746 5 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE2nnn/GSE2065/
+Series		Accession: GSE2065	ID: 200002065
+
+218. Sporulation in Bacillus subtilis (mother cell)
+(Submitter supplied) This series of experiments was designed to identify the program of gene transcription for a single differentiating cell type during sporulation in Bacillus subtilis. The mother cell is one of two cell types generated by asymmetric division of sporulating cells approximately two hours after initiation of sporulation. The program is governed by a hierarchical cascade consisting of the transcription factors: sigmaE, sigmaK, GerE, GerR (YlbO) and SpoIIID. more...
+Organism:	Bacillus subtilis
+Type:		Expression profiling by array
+Platform: GPL1353 15 Samples
+FTP download: GEO (TIFF) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE1nnn/GSE1620/
+Series		Accession: GSE1620	ID: 200001620
